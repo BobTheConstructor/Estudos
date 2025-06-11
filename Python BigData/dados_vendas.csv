@@ -1,0 +1,801 @@
+empresa,Nome,cpf_cnpj,data_compra,veiculo_porte,tipo_veiculo,medida_pneu,Remolde,Qnt_vendas,Vr_unitario,Vr_Total
+Sim,Costela,97.430.286/0001-87,22/06/2022,medio,carro,195/75.13,Sim,4,171.45,685.8
+Não,Cauê Pinto,730.265.841-26,18/08/2022,grande,caminhão,205/55.15,Não,5,216.69,1083.45
+Sim,Dias e Filhos,32.097.465/0001-07,05/07/2023,medio,carro,195/65.16,Sim,1,162.62,162.62
+Não,Lorenzo da Luz,196.043.728-31,23/04/2025,medio,carro,165/65.14,Sim,1,161.67,161.67
+Não,Dra. Cecília Freitas,085.329.164-06,12/06/2024,grande,caminhão,215/65.15,Não,3,226.08,678.24
+Não,Vitor Fernandes,106.429.573-80,29/12/2023,medio,carro,185/65.16,Não,6,226.93,1361.58
+Não,Dr. Rael da Rosa,268.051.397-59,24/09/2023,grande,caminhão,215/70.15,Sim,6,182.81,1096.86
+Não,Maria Eduarda Câmara,025.647.139-80,14/02/2025,grande,caminhão,205/60.16,Não,1,236.16,236.16
+Não,Theodoro Barros,514.789.263-09,23/04/2025,grande,caminhão,205/55.17,Sim,6,164.54,987.24
+Não,Luigi Novaes,830.124.679-04,21/01/2024,medio,carro,195/65.15,Não,6,236.01,1416.06
+Não,Dr. Henry Gabriel Montenegro,827.356.019-86,20/03/2025,medio,carro,175/75.16,Não,1,200.51,200.51
+Não,Dr. Luiz Miguel Rios,907.254.863-92,03/01/2025,medio,carro,165/75.15,Não,4,231.71,926.84
+Sim,Sampaio,85.960.143/0001-06,22/05/2023,medio,carro,185/65.13,Não,1,239.79,239.79
+Não,Sarah da Luz,375.618.904-00,05/12/2024,medio,carro,195/65.15,Não,4,201.65,806.6
+Não,Mateus Aragão,286.907.514-67,14/03/2024,grande,caminhão,215/45.17,Sim,4,152.57,610.28
+Sim,Moreira,98.503.472/0001-61,04/05/2023,medio,carro,165/65.16,Não,2,245.69,491.38
+Não,Rafael Montenegro,753.892.641-00,02/03/2024,grande,caminhão,215/55.17,Não,5,205.98,1029.9
+Sim,Aparecida,73.916.485/0001-31,18/03/2025,grande,caminhão,215/45.17,Sim,4,176.74,706.96
+Não,Yasmin Aparecida,502.863.479-38,08/11/2023,grande,caminhão,225/65.16,Não,1,207.93,207.93
+Não,Dra. Alice Duarte,825.691.047-01,18/08/2024,medio,carro,185/65.15,Sim,5,163.6,818.0
+Não,Alice Monteiro,314.289.650-33,18/06/2024,medio,carro,175/75.15,Não,1,246.91,246.91
+Sim,Lopes,71.095.846/0001-09,14/01/2023,medio,carro,165/65.15,Sim,1,174.0,174.0
+Sim,Moreira,98.503.472/0001-61,02/04/2023,medio,carro,175/75.16,Não,1,212.84,212.84
+Não,Pedro Miguel Pimenta,283.975.140-23,29/01/2024,grande,caminhão,215/55.17,Sim,5,175.39,876.95
+Não,Marina Teixeira,431.586.902-33,27/05/2024,grande,caminhão,225/70.15,Sim,3,184.47,553.41
+Não,Gustavo Henrique Barbosa,852.319.407-04,27/08/2023,grande,caminhão,215/60.15,Não,3,240.57,721.71
+Sim,Dias e Filhos,32.097.465/0001-07,09/07/2022,grande,caminhão,205/65.16,Não,2,242.82,485.64
+Não,João Miguel Rios,650.713.298-59,15/05/2024,grande,caminhão,205/60.15,Não,5,240.99,1204.95
+Não,Thomas Ribeiro,530.921.874-23,15/03/2025,medio,carro,195/65.16,Não,1,223.28,223.28
+Não,Bianca Cardoso,683.709.514-57,22/10/2022,medio,carro,195/75.16,Não,2,247.44,494.88
+Não,Ana Julia Caldeira,580.342.917-14,20/12/2023,grande,caminhão,215/45.15,Sim,1,167.12,167.12
+Não,Renan Carvalho,159.687.304-39,30/12/2024,medio,carro,195/65.16,Sim,3,184.82,554.46
+Sim,Aparecida,73.916.485/0001-31,16/06/2022,medio,carro,195/75.13,Não,6,219.33,1315.98
+Sim,Costela,97.430.286/0001-87,22/10/2024,grande,caminhão,205/65.16,Não,1,230.35,230.35
+Não,Maria Luiza Araújo,150.798.346-84,11/08/2022,medio,carro,175/65.15,Sim,6,187.08,1122.48
+Sim,Costela,97.430.286/0001-87,14/10/2022,grande,caminhão,215/55.16,Sim,1,167.71,167.71
+Não,Sr. Caio Rocha,120.839.475-41,21/06/2022,medio,carro,165/75.16,Não,1,203.01,203.01
+Não,Josué da Paz,569.810.423-98,22/02/2023,grande,caminhão,225/60.15,Não,2,209.72,419.44
+Sim,Lopes,71.095.846/0001-09,11/02/2024,medio,carro,175/65.13,Não,1,200.55,200.55
+Não,Ana Beatriz Pereira,084.372.569-92,24/04/2023,medio,carro,165/65.16,Não,2,215.21,430.42
+Não,Lunna Macedo,509.482.713-88,08/01/2025,grande,caminhão,205/70.15,Não,2,223.29,446.58
+Não,Rafaela da Paz,983.750.146-48,27/05/2024,medio,carro,195/75.14,Não,1,249.18,249.18
+Não,Luiz Otávio Cirino,892.307.546-92,29/09/2022,medio,carro,185/65.16,Sim,2,154.88,309.76
+Não,José Jesus,914.062.587-76,20/09/2022,medio,carro,195/75.15,Não,2,219.53,439.06
+Sim,Sampaio,85.960.143/0001-06,22/03/2023,medio,carro,185/65.14,Não,2,220.94,441.88
+Não,Daniel Pinto,819.265.304-89,29/09/2022,medio,carro,165/65.13,Não,1,204.91,204.91
+Sim,Almeida,59.608.342/0001-31,29/09/2024,grande,caminhão,205/65.15,Sim,2,154.58,309.16
+Sim,Dias e Filhos,32.097.465/0001-07,14/12/2024,medio,carro,185/75.14,Sim,2,181.39,362.78
+Não,Caroline Barros,528.306.197-30,19/12/2022,medio,carro,165/65.15,Não,6,220.04,1320.24
+Sim,Nascimento,04.163.295/0001-78,30/03/2023,medio,carro,165/65.14,Não,2,206.26,412.52
+Sim,Aparecida,73.916.485/0001-31,12/12/2022,grande,caminhão,215/70.16,Não,6,206.51,1239.06
+Não,Ísis Silva,641.905.378-10,03/01/2023,medio,carro,185/75.15,Sim,3,170.25,510.75
+Sim,Costela,97.430.286/0001-87,17/05/2023,medio,carro,195/65.15,Não,1,236.67,236.67
+Sim,Cavalcante,65.098.174/0001-84,26/03/2024,medio,carro,175/65.15,Não,4,214.16,856.64
+Sim,Cavalcante,65.098.174/0001-84,17/10/2024,medio,carro,185/65.14,Sim,3,157.36,472.08
+Sim,Aparecida,73.916.485/0001-31,16/06/2023,medio,carro,185/65.13,Não,1,245.73,245.73
+Não,Ana Luiza Cassiano,024.813.579-14,14/12/2022,medio,carro,185/75.13,Não,5,239.62,1198.1
+Sim,Porto Ltda.,31.502.897/0001-85,01/08/2022,medio,carro,185/75.15,Não,2,200.27,400.54
+Sim,Aparecida,73.916.485/0001-31,09/02/2023,medio,carro,195/75.15,Sim,2,165.5,331.0
+Não,Pedro Lucas Aparecida,173.846.205-62,05/04/2025,medio,carro,175/65.16,Sim,1,156.99,156.99
+Não,Olivia Pimenta,403.581.627-26,06/08/2023,grande,caminhão,205/65.16,Sim,1,154.88,154.88
+Não,Davi Luiz Viana,268.570.439-65,23/07/2024,grande,caminhão,225/45.17,Sim,3,162.46,487.38
+Não,Vitória Ribeiro,945.832.610-98,22/03/2025,medio,carro,175/75.15,Sim,4,158.48,633.92
+Sim,Cavalcante,65.098.174/0001-84,19/09/2022,medio,carro,175/65.13,Sim,1,167.96,167.96
+Sim,Cavalcante,65.098.174/0001-84,02/01/2025,grande,caminhão,225/70.16,Sim,2,153.59,307.18
+Sim,Porto Ltda.,31.502.897/0001-85,13/06/2022,grande,caminhão,225/45.15,Sim,2,184.21,368.42
+Sim,Nascimento,04.163.295/0001-78,08/03/2024,grande,caminhão,225/65.17,Não,3,233.1,699.3
+Não,Ravi Lucca Freitas,281.357.604-26,21/05/2024,grande,caminhão,225/45.15,Sim,2,156.09,312.18
+Sim,Aparecida,73.916.485/0001-31,18/04/2023,grande,caminhão,215/70.16,Não,3,220.55,661.65
+Sim,Porto Ltda.,31.502.897/0001-85,22/01/2024,medio,carro,165/65.13,Não,6,212.31,1273.86
+Não,Maria Fernanda Sá,953.102.847-88,15/09/2023,medio,carro,185/75.16,Não,6,237.01,1422.06
+Não,Valentina Sá,218.743.690-03,19/02/2023,medio,carro,175/65.15,Sim,5,153.87,769.35
+Não,Isaac Caldeira,875.243.619-55,17/08/2024,grande,caminhão,225/55.15,Sim,2,172.95,345.9
+Sim,Porto Ltda.,31.502.897/0001-85,18/12/2024,medio,carro,195/65.16,Não,3,246.89,740.67
+Não,Srta. Isadora Moraes,825.017.493-32,20/04/2025,grande,caminhão,215/65.15,Sim,1,179.15,179.15
+Sim,Porto Ltda.,31.502.897/0001-85,28/12/2022,medio,carro,185/65.14,Sim,6,156.69,940.14
+Não,Bernardo Lima,780.312.465-80,06/09/2024,medio,carro,175/65.16,Sim,4,156.23,624.92
+Não,Dr. Ravi Albuquerque,765.093.428-47,11/10/2022,grande,caminhão,205/45.16,Não,4,215.93,863.72
+Não,Isabel Andrade,598.614.327-28,30/12/2022,grande,caminhão,225/45.16,Não,4,200.72,802.88
+Sim,Moreira,98.503.472/0001-61,27/05/2024,grande,caminhão,215/55.17,Não,6,238.43,1430.58
+Não,Luana Rocha,376.502.194-61,28/08/2022,medio,carro,165/65.14,Não,2,240.78,481.56
+Não,Mariah Guerra,301.476.825-17,21/07/2024,grande,caminhão,225/45.16,Sim,3,188.18,564.54
+Não,Miguel Barbosa,132.796.845-28,09/07/2023,grande,caminhão,225/45.16,Sim,1,154.72,154.72
+Sim,Porto Ltda.,31.502.897/0001-85,04/04/2025,medio,carro,195/75.16,Não,1,239.93,239.93
+Sim,Moreira,98.503.472/0001-61,01/10/2022,medio,carro,185/75.16,Sim,4,152.93,611.72
+Não,Melissa Siqueira,418.275.039-04,02/10/2023,medio,carro,175/75.13,Sim,3,157.0,471.0
+Sim,Sampaio,85.960.143/0001-06,14/10/2023,grande,caminhão,225/65.17,Não,4,235.73,942.92
+Não,Dr. Benício Farias,069.724.315-06,04/04/2024,medio,carro,165/75.16,Não,6,216.62,1299.72
+Não,Dr. Dom Dias,107.342.869-96,04/04/2024,medio,carro,185/65.13,Sim,4,165.67,662.68
+Não,Sra. Hellena das Neves,530.481.697-84,05/03/2025,medio,carro,175/75.15,Não,2,215.99,431.98
+Não,Laís Barros,237.896.415-37,24/05/2024,grande,caminhão,205/70.15,Não,2,210.4,420.8
+Sim,Almeida,59.608.342/0001-31,15/01/2025,medio,carro,185/65.14,Não,4,239.44,957.76
+Não,Oliver Vieira,156.478.902-02,21/12/2023,grande,caminhão,215/60.16,Não,1,232.57,232.57
+Não,Srta. Maria Isis Novaes,943.621.857-55,19/08/2022,medio,carro,185/75.14,Sim,1,156.44,156.44
+Não,Daniela Castro,728.954.103-05,21/10/2023,grande,caminhão,225/70.16,Sim,3,157.0,471.0
+Sim,Cavalcante,65.098.174/0001-84,17/04/2024,medio,carro,195/65.15,Não,6,231.63,1389.78
+Sim,Dias e Filhos,32.097.465/0001-07,13/04/2024,grande,caminhão,225/70.15,Sim,3,166.64,499.92
+Sim,Almeida,59.608.342/0001-31,12/01/2023,grande,caminhão,225/55.17,Sim,3,157.65,472.95
+Sim,Costela,97.430.286/0001-87,06/01/2023,medio,carro,195/65.14,Sim,3,174.91,524.73
+Sim,Moreira,98.503.472/0001-61,23/03/2024,medio,carro,165/65.13,Não,2,204.18,408.36
+Não,Sr. Carlos Eduardo da Cruz,437.015.286-08,26/07/2022,grande,caminhão,205/45.17,Sim,5,176.28,881.4
+Sim,Cavalcante,65.098.174/0001-84,02/02/2023,medio,carro,175/75.14,Não,2,229.1,458.2
+Não,Bella Leão,276.104.593-99,11/02/2025,medio,carro,195/75.16,Não,6,230.05,1380.3
+Sim,Lopes,71.095.846/0001-09,26/02/2023,medio,carro,185/75.14,Sim,2,171.18,342.36
+Sim,Almeida,59.608.342/0001-31,13/05/2023,medio,carro,165/75.14,Sim,4,178.76,715.04
+Não,Eduarda Nunes,725.930.618-12,15/11/2022,medio,carro,175/75.13,Não,3,228.08,684.24
+Não,Theo Souza,347.816.502-44,19/10/2022,medio,carro,175/65.14,Sim,6,178.47,1070.82
+Sim,Cavalcante,65.098.174/0001-84,08/05/2023,grande,caminhão,215/45.15,Não,3,225.24,675.72
+Não,Marina Silva,207.563.198-03,05/06/2025,grande,caminhão,205/65.17,Sim,2,160.6,321.2
+Sim,Almeida,59.608.342/0001-31,04/09/2022,grande,caminhão,215/45.17,Não,4,249.54,998.16
+Não,Ayla Jesus,498.215.706-58,25/12/2023,medio,carro,175/75.15,Não,5,226.35,1131.75
+Sim,Nascimento,04.163.295/0001-78,16/05/2025,grande,caminhão,215/65.16,Não,2,208.92,417.84
+Sim,Moreira,98.503.472/0001-61,27/08/2022,medio,carro,195/65.14,Não,3,218.88,656.64
+Não,João Farias,751.342.096-34,28/10/2022,grande,caminhão,215/70.17,Não,6,232.62,1395.72
+Sim,Almeida,59.608.342/0001-31,17/11/2024,medio,carro,175/65.15,Não,6,230.58,1383.48
+Sim,Almeida,59.608.342/0001-31,21/08/2024,grande,caminhão,215/45.15,Sim,3,155.33,465.99
+Não,Sra. Juliana Oliveira,417.325.068-17,09/01/2024,medio,carro,195/65.14,Sim,5,155.01,775.05
+Não,Felipe Rezende,105.237.486-71,20/06/2024,grande,caminhão,225/65.15,Não,5,220.97,1104.85
+Não,Dr. Enrico da Luz,372.654.189-64,03/06/2025,medio,carro,165/65.16,Não,1,245.43,245.43
+Sim,Cavalcante,65.098.174/0001-84,17/07/2023,grande,caminhão,215/70.17,Não,5,202.01,1010.05
+Sim,Dias e Filhos,32.097.465/0001-07,30/01/2025,grande,caminhão,215/55.15,Não,1,245.48,245.48
+Não,Heloísa Cassiano,689.570.134-66,01/05/2025,medio,carro,175/65.13,Sim,1,170.42,170.42
+Não,Antônio da Luz,579.803.216-77,04/11/2022,grande,caminhão,215/55.16,Não,6,232.44,1394.64
+Sim,Lopes,71.095.846/0001-09,03/04/2023,medio,carro,175/75.15,Não,3,206.85,620.55
+Não,Olívia Araújo,728.146.593-91,03/08/2023,grande,caminhão,205/55.15,Sim,3,175.35,526.05
+Não,Liz Borges,645.910.723-80,02/03/2025,medio,carro,195/65.13,Não,5,237.89,1189.45
+Sim,Aparecida,73.916.485/0001-31,12/12/2022,grande,caminhão,225/60.17,Sim,2,175.41,350.82
+Não,Ravi Vargas,647.853.092-29,23/09/2023,grande,caminhão,205/65.17,Não,2,229.44,458.88
+Não,Antônio Sales,187.045.263-17,27/04/2025,grande,caminhão,225/60.17,Não,3,225.47,676.41
+Não,Dr. Gael Henrique Moreira,187.453.260-53,22/04/2024,medio,carro,195/75.13,Sim,2,175.59,351.18
+Sim,Moreira,98.503.472/0001-61,02/12/2024,grande,caminhão,225/65.17,Sim,2,163.14,326.28
+Sim,Lopes,71.095.846/0001-09,19/07/2022,medio,carro,175/75.14,Não,2,245.93,491.86
+Não,Sr. Josué Cassiano,834.296.175-37,03/09/2022,grande,caminhão,225/55.15,Sim,6,188.82,1132.92
+Sim,Dias e Filhos,32.097.465/0001-07,23/07/2023,medio,carro,165/75.15,Não,2,233.6,467.2
+Não,Maria Júlia Silveira,351.490.678-57,05/10/2024,medio,carro,185/75.14,Não,2,216.36,432.72
+Não,Luana Costa,512.987.306-86,17/03/2024,medio,carro,175/75.15,Não,6,205.49,1232.94
+Não,Valentina Azevedo,479.532.801-32,18/05/2024,medio,carro,165/75.13,Sim,6,188.07,1128.42
+Sim,Moreira,98.503.472/0001-61,16/11/2022,medio,carro,185/65.14,Sim,4,150.92,603.68
+Sim,Porto Ltda.,31.502.897/0001-85,30/09/2023,medio,carro,195/75.14,Sim,6,188.14,1128.84
+Não,Ian Cavalcante,056.831.479-48,22/01/2025,medio,carro,165/75.13,Não,1,233.01,233.01
+Não,Benício Sousa,243.718.650-62,09/05/2025,medio,carro,175/75.14,Sim,2,158.92,317.84
+Sim,Sampaio,85.960.143/0001-06,21/03/2024,grande,caminhão,225/60.15,Sim,2,150.17,300.34
+Não,Maria Júlia Gonçalves,932.108.765-68,17/02/2024,grande,caminhão,215/45.15,Não,1,240.18,240.18
+Não,Luiz Henrique Nascimento,184.539.607-39,12/08/2024,medio,carro,195/65.15,Não,4,243.01,972.04
+Sim,Porto Ltda.,31.502.897/0001-85,11/03/2024,grande,caminhão,215/45.15,Sim,1,154.03,154.03
+Não,Benjamin Guerra,026.583.941-60,18/08/2022,grande,caminhão,205/70.17,Sim,5,179.0,895.0
+Sim,Moreira,98.503.472/0001-61,03/08/2024,medio,carro,175/65.15,Não,1,246.61,246.61
+Não,Alícia Andrade,125.798.604-01,26/08/2022,medio,carro,165/75.13,Não,4,233.29,933.16
+Não,Isabela Camargo,375.418.926-37,17/09/2023,grande,caminhão,205/55.16,Sim,5,186.53,932.65
+Não,Cecilia da Cruz,715.690.834-01,10/02/2023,grande,caminhão,215/70.16,Sim,2,181.11,362.22
+Não,José Miguel Freitas,214.679.035-07,12/03/2025,grande,caminhão,205/45.16,Sim,4,165.8,663.2
+Não,Léo Farias,134.062.579-25,09/03/2025,grande,caminhão,215/70.17,Não,6,243.89,1463.34
+Sim,Porto Ltda.,31.502.897/0001-85,08/01/2025,medio,carro,195/65.14,Não,4,206.94,827.76
+Não,Maria Júlia Costa,386.905.472-74,05/01/2024,medio,carro,185/65.14,Sim,1,174.49,174.49
+Não,Liz da Luz,803.251.469-42,19/08/2022,grande,caminhão,205/60.17,Não,3,203.95,611.85
+Sim,Porto Ltda.,31.502.897/0001-85,04/04/2025,grande,caminhão,215/65.17,Sim,3,184.53,553.59
+Sim,Costela,97.430.286/0001-87,13/10/2023,grande,caminhão,225/70.15,Não,1,210.5,210.5
+Sim,Porto Ltda.,31.502.897/0001-85,14/01/2025,grande,caminhão,205/60.15,Não,1,220.19,220.19
+Sim,Cavalcante,65.098.174/0001-84,07/04/2023,grande,caminhão,205/45.16,Sim,6,158.88,953.28
+Não,Cecilia Viana,814.356.207-71,31/05/2025,medio,carro,185/75.15,Sim,6,185.78,1114.68
+Não,Gael Henrique Vasconcelos,984.756.213-09,11/02/2023,medio,carro,165/65.15,Não,2,243.76,487.52
+Não,Sra. Luana Duarte,751.039.846-01,19/01/2024,medio,carro,175/75.14,Sim,5,155.91,779.55
+Sim,Dias e Filhos,32.097.465/0001-07,07/03/2025,medio,carro,165/65.14,Não,4,233.44,933.76
+Não,Rhavi Lima,480.597.326-92,10/11/2022,medio,carro,195/75.13,Sim,6,189.12,1134.72
+Não,Sr. Levi Rodrigues,714.860.925-94,02/10/2023,medio,carro,195/75.13,Sim,2,158.0,316.0
+Não,Henry Gabriel da Rocha,130.482.567-17,30/10/2023,medio,carro,195/65.16,Sim,3,174.4,523.2
+Não,Levi Cirino,837.015.429-88,17/04/2023,grande,caminhão,205/45.15,Não,6,216.27,1297.62
+Sim,Lopes,71.095.846/0001-09,27/08/2023,grande,caminhão,225/45.15,Não,4,247.81,991.24
+Não,Srta. Maysa Lopes,367.810.294-87,15/12/2022,medio,carro,195/75.14,Sim,4,154.82,619.28
+Não,Luiz Otávio da Rocha,498.601.352-15,19/12/2024,grande,caminhão,205/55.15,Sim,2,171.01,342.02
+Sim,Dias e Filhos,32.097.465/0001-07,14/11/2022,grande,caminhão,215/60.17,Sim,5,154.12,770.6
+Não,Diogo Cavalcanti,613.978.025-02,01/05/2025,grande,caminhão,215/45.15,Não,6,219.6,1317.6
+Não,Otto Mendonça,890.761.342-78,22/09/2022,grande,caminhão,215/65.16,Sim,6,181.05,1086.3
+Sim,Cavalcante,65.098.174/0001-84,23/12/2024,medio,carro,185/65.13,Sim,4,189.65,758.6
+Sim,Lopes,71.095.846/0001-09,17/05/2025,grande,caminhão,225/60.17,Não,5,208.11,1040.55
+Sim,Porto Ltda.,31.502.897/0001-85,04/04/2024,grande,caminhão,225/45.16,Não,3,219.46,658.38
+Sim,Porto Ltda.,31.502.897/0001-85,29/01/2023,medio,carro,185/65.15,Sim,5,158.7,793.5
+Não,Allana Guerra,650.418.937-48,26/12/2024,medio,carro,175/75.15,Não,5,220.77,1103.85
+Sim,Porto Ltda.,31.502.897/0001-85,20/05/2023,medio,carro,175/75.16,Sim,1,156.76,156.76
+Não,Sra. Ana Vitória Costela,789.521.034-32,22/07/2023,grande,caminhão,225/65.15,Não,3,225.98,677.94
+Sim,Lopes,71.095.846/0001-09,10/08/2024,grande,caminhão,205/60.17,Não,3,216.17,648.51
+Não,Mateus Campos,347.590.618-00,23/02/2024,medio,carro,165/65.15,Não,2,225.62,451.24
+Não,Vitória Souza,965.071.482-02,17/01/2023,medio,carro,195/75.14,Não,6,224.66,1347.96
+Não,Joana Lopes,469.851.037-66,09/06/2024,grande,caminhão,225/60.16,Não,1,229.32,229.32
+Sim,Cavalcante,65.098.174/0001-84,26/06/2022,medio,carro,185/75.13,Não,3,205.89,617.67
+Sim,Almeida,59.608.342/0001-31,10/06/2024,grande,caminhão,205/60.17,Sim,6,181.77,1090.62
+Sim,Moreira,98.503.472/0001-61,30/08/2023,medio,carro,195/65.16,Sim,6,167.6,1005.6
+Sim,Porto Ltda.,31.502.897/0001-85,25/11/2024,medio,carro,165/65.14,Sim,1,175.81,175.81
+Sim,Porto Ltda.,31.502.897/0001-85,23/05/2024,medio,carro,165/65.15,Sim,5,179.14,895.7
+Sim,Almeida,59.608.342/0001-31,01/01/2025,grande,caminhão,215/55.16,Sim,2,167.16,334.32
+Sim,Porto Ltda.,31.502.897/0001-85,24/02/2024,medio,carro,185/65.13,Sim,5,179.25,896.25
+Sim,Moreira,98.503.472/0001-61,24/04/2025,medio,carro,195/75.16,Sim,1,159.14,159.14
+Sim,Nascimento,04.163.295/0001-78,28/05/2025,grande,caminhão,205/55.17,Sim,3,174.04,522.12
+Não,Sr. Benjamim Sampaio,762.510.394-34,30/12/2024,grande,caminhão,225/65.16,Não,1,206.63,206.63
+Não,Juliana Oliveira,062.459.137-99,05/12/2022,medio,carro,165/75.15,Sim,4,163.07,652.28
+Sim,Moreira,98.503.472/0001-61,19/01/2024,medio,carro,165/75.13,Não,5,213.59,1067.95
+Não,Ana Liz Fogaça,870.265.394-00,18/08/2024,grande,caminhão,225/65.17,Sim,5,163.75,818.75
+Sim,Dias e Filhos,32.097.465/0001-07,09/04/2025,grande,caminhão,215/65.17,Não,5,214.12,1070.6
+Não,João Miguel da Luz,183.045.726-80,03/02/2025,grande,caminhão,205/70.16,Não,6,218.86,1313.16
+Não,Isabelly Almeida,864.719.503-57,13/12/2022,grande,caminhão,205/55.15,Sim,6,172.08,1032.48
+Não,Luiz Otávio Sales,467.025.831-17,06/07/2023,medio,carro,195/65.16,Não,1,200.15,200.15
+Sim,Costela,97.430.286/0001-87,31/05/2023,medio,carro,195/65.15,Sim,3,175.4,526.2
+Sim,Sampaio,85.960.143/0001-06,03/02/2024,medio,carro,165/75.15,Sim,5,174.57,872.85
+Não,Théo Sampaio,501.964.732-25,12/06/2023,grande,caminhão,205/70.15,Não,3,207.02,621.06
+Não,Marcela Sousa,374.586.192-28,19/09/2023,grande,caminhão,225/45.15,Sim,2,174.82,349.64
+Sim,Lopes,71.095.846/0001-09,05/07/2023,medio,carro,195/65.15,Não,1,214.49,214.49
+Sim,Porto Ltda.,31.502.897/0001-85,04/12/2023,medio,carro,175/75.15,Não,3,228.91,686.73
+Não,João Pedro Campos,016.487.259-02,25/10/2022,grande,caminhão,215/70.15,Sim,4,161.86,647.44
+Sim,Costela,97.430.286/0001-87,27/04/2025,grande,caminhão,205/60.16,Não,2,238.79,477.58
+Sim,Aparecida,73.916.485/0001-31,07/07/2023,grande,caminhão,215/55.16,Não,5,212.74,1063.7
+Não,Pedro Lucas Sampaio,513.207.968-77,18/12/2022,grande,caminhão,215/70.15,Sim,6,181.13,1086.78
+Não,Eduarda Vasconcelos,309.415.827-79,19/10/2022,medio,carro,175/75.13,Sim,6,151.22,907.32
+Sim,Lopes,71.095.846/0001-09,16/06/2023,medio,carro,195/65.13,Sim,5,185.5,927.5
+Sim,Nascimento,04.163.295/0001-78,20/01/2024,medio,carro,175/65.16,Sim,5,157.91,789.55
+Sim,Nascimento,04.163.295/0001-78,26/11/2024,medio,carro,195/75.14,Sim,6,172.54,1035.24
+Não,Valentim Campos,376.218.095-40,18/11/2024,grande,caminhão,215/60.17,Sim,1,178.1,178.1
+Não,Maysa Moura,918.045.673-10,03/09/2023,grande,caminhão,215/45.16,Não,6,219.1,1314.6
+Sim,Moreira,98.503.472/0001-61,09/08/2022,grande,caminhão,205/65.16,Não,2,201.55,403.1
+Sim,Dias e Filhos,32.097.465/0001-07,16/02/2023,grande,caminhão,205/65.17,Não,6,225.64,1353.84
+Sim,Cavalcante,65.098.174/0001-84,30/04/2024,grande,caminhão,225/60.17,Não,5,248.16,1240.8
+Não,Nina Vasconcelos,063.149.275-52,23/01/2024,grande,caminhão,225/70.16,Não,5,215.95,1079.75
+Não,Otávio Ferreira,794.013.826-03,12/12/2023,grande,caminhão,205/70.15,Sim,6,189.33,1135.98
+Não,Stella da Mata,658.120.493-51,21/01/2024,medio,carro,195/75.13,Não,3,238.68,716.04
+Sim,Costela,97.430.286/0001-87,24/05/2023,medio,carro,185/75.13,Não,3,249.19,747.57
+Não,Sra. Stephany da Paz,715.083.429-97,15/05/2023,medio,carro,195/65.13,Não,6,204.32,1225.92
+Não,João Guilherme Dias,587.143.296-46,26/02/2023,medio,carro,175/65.15,Não,1,234.72,234.72
+Sim,Nascimento,04.163.295/0001-78,01/10/2024,grande,caminhão,225/60.16,Sim,5,167.86,839.3
+Sim,Moreira,98.503.472/0001-61,22/03/2025,medio,carro,185/65.15,Não,4,248.64,994.56
+Sim,Costela,97.430.286/0001-87,25/07/2024,medio,carro,165/75.15,Não,5,234.8,1174.0
+Não,Ana Clara das Neves,560.318.274-17,21/09/2022,medio,carro,185/65.14,Não,6,204.92,1229.52
+Não,Ana Sophia Fonseca,825.196.073-86,08/05/2025,medio,carro,165/75.13,Não,1,232.2,232.2
+Sim,Almeida,59.608.342/0001-31,08/06/2023,grande,caminhão,205/45.15,Não,3,220.15,660.45
+Sim,Cavalcante,65.098.174/0001-84,26/03/2025,grande,caminhão,215/70.17,Não,2,221.33,442.66
+Não,Marcos Vinicius da Mata,967.214.058-49,05/03/2024,grande,caminhão,215/45.17,Não,4,214.57,858.28
+Sim,Almeida,59.608.342/0001-31,22/02/2025,grande,caminhão,225/65.16,Sim,4,171.24,684.96
+Não,Ana Luiza Dias,018.743.952-41,22/09/2023,grande,caminhão,225/45.16,Não,1,249.75,249.75
+Não,Sra. Maria Alice Pacheco,408.591.632-70,17/06/2023,medio,carro,165/65.13,Não,2,210.12,420.24
+Sim,Dias e Filhos,32.097.465/0001-07,25/04/2024,medio,carro,175/75.13,Não,3,243.53,730.59
+Sim,Moreira,98.503.472/0001-61,31/03/2023,grande,caminhão,205/45.15,Sim,6,151.39,908.34
+Não,Dr. Marcos Vinicius Cardoso,106.289.745-58,08/10/2024,medio,carro,165/75.13,Sim,3,152.87,458.61
+Não,Luiz Otávio Sá,254.138.976-00,02/02/2025,medio,carro,165/65.15,Não,4,230.63,922.52
+Sim,Sampaio,85.960.143/0001-06,13/01/2024,grande,caminhão,205/55.17,Sim,3,153.0,459.0
+Sim,Cavalcante,65.098.174/0001-84,07/08/2022,grande,caminhão,225/65.15,Não,3,218.59,655.77
+Não,Davi Lucas Costela,502.638.174-07,10/02/2023,medio,carro,195/65.16,Não,4,238.11,952.44
+Não,Daniel Gonçalves,721.659.038-40,28/06/2024,medio,carro,195/75.15,Não,4,239.41,957.64
+Sim,Lopes,71.095.846/0001-09,09/02/2023,medio,carro,195/65.14,Sim,2,169.14,338.28
+Sim,Almeida,59.608.342/0001-31,13/01/2023,grande,caminhão,215/65.16,Sim,4,184.84,739.36
+Não,Maria Helena Leão,201.359.748-79,17/07/2023,grande,caminhão,225/45.16,Sim,6,172.93,1037.58
+Sim,Porto Ltda.,31.502.897/0001-85,12/04/2024,medio,carro,165/65.14,Sim,6,166.87,1001.22
+Não,Dra. Yasmin Duarte,094.763.281-69,02/07/2024,medio,carro,195/75.14,Não,5,247.01,1235.05
+Não,Alícia Cavalcanti,058.132.497-88,09/05/2025,grande,caminhão,205/60.17,Sim,4,160.26,641.04
+Não,Maria Clara Santos,709.563.142-52,15/04/2024,grande,caminhão,205/65.15,Não,5,234.75,1173.75
+Sim,Costela,97.430.286/0001-87,07/01/2025,medio,carro,165/75.16,Não,2,232.27,464.54
+Sim,Almeida,59.608.342/0001-31,16/01/2024,medio,carro,165/65.16,Não,3,201.46,604.38
+Não,Kamilly Teixeira,598.742.631-64,01/06/2024,medio,carro,185/65.15,Não,6,239.02,1434.12
+Não,Sra. Anna Liz da Rosa,320.518.746-62,30/05/2023,medio,carro,175/75.13,Sim,3,171.22,513.66
+Sim,Nascimento,04.163.295/0001-78,01/03/2024,grande,caminhão,215/70.15,Sim,5,153.46,767.3
+Sim,Cavalcante,65.098.174/0001-84,25/03/2023,medio,carro,195/75.14,Não,1,216.09,216.09
+Não,Maria Casa Grande,284.690.317-40,17/01/2025,medio,carro,175/75.13,Não,2,243.12,486.24
+Não,Gabrielly da Cunha,096.584.273-83,13/11/2023,medio,carro,165/75.15,Sim,5,155.52,777.6
+Sim,Aparecida,73.916.485/0001-31,11/07/2024,grande,caminhão,225/70.15,Não,6,239.58,1437.48
+Não,Helena Ramos,097.423.851-14,01/06/2023,medio,carro,195/65.14,Não,6,232.26,1393.56
+Sim,Sampaio,85.960.143/0001-06,01/03/2023,grande,caminhão,215/60.15,Não,3,231.87,695.61
+Sim,Aparecida,73.916.485/0001-31,26/08/2022,grande,caminhão,205/45.17,Não,1,245.6,245.6
+Sim,Almeida,59.608.342/0001-31,30/03/2025,medio,carro,165/75.15,Não,2,209.31,418.62
+Sim,Dias e Filhos,32.097.465/0001-07,24/03/2024,medio,carro,195/65.13,Sim,2,159.04,318.08
+Não,João Miguel Câmara,693.251.048-06,25/05/2023,medio,carro,175/65.15,Sim,1,158.64,158.64
+Não,Josué Melo,271.980.345-60,27/07/2023,medio,carro,185/65.14,Não,2,241.09,482.18
+Não,Sabrina Câmara,134.280.956-42,21/09/2023,grande,caminhão,215/55.17,Sim,1,169.28,169.28
+Não,Pedro Lucas Ramos,567.093.418-01,14/12/2023,grande,caminhão,205/45.16,Sim,4,180.13,720.52
+Sim,Lopes,71.095.846/0001-09,01/01/2024,medio,carro,165/65.16,Não,3,203.88,611.64
+Não,Dr. Brayan Pastor,407.965.218-67,24/03/2023,grande,caminhão,205/55.16,Não,2,206.55,413.1
+Sim,Aparecida,73.916.485/0001-31,05/08/2022,grande,caminhão,215/55.16,Sim,1,167.71,167.71
+Sim,Porto Ltda.,31.502.897/0001-85,20/06/2024,grande,caminhão,215/45.16,Sim,4,152.36,609.44
+Sim,Sampaio,85.960.143/0001-06,10/10/2022,grande,caminhão,205/70.17,Não,1,212.0,212.0
+Sim,Dias e Filhos,32.097.465/0001-07,05/03/2023,grande,caminhão,205/70.17,Não,2,206.67,413.34
+Não,Aurora Marques,812.460.973-03,28/05/2023,medio,carro,195/75.14,Sim,2,153.83,307.66
+Sim,Dias e Filhos,32.097.465/0001-07,09/10/2022,medio,carro,165/65.16,Sim,5,153.78,768.9
+Sim,Aparecida,73.916.485/0001-31,18/10/2022,grande,caminhão,205/70.16,Sim,1,151.2,151.2
+Não,Srta. Alana da Mata,572.061.984-49,05/01/2025,grande,caminhão,225/65.15,Sim,6,181.28,1087.68
+Sim,Cavalcante,65.098.174/0001-84,17/10/2022,medio,carro,185/65.14,Não,4,246.08,984.32
+Não,Sra. Nicole Pimenta,514.309.826-24,01/10/2023,grande,caminhão,225/70.15,Sim,5,170.1,850.5
+Sim,Cavalcante,65.098.174/0001-84,20/03/2025,grande,caminhão,215/55.16,Não,1,247.95,247.95
+Sim,Costela,97.430.286/0001-87,22/10/2024,grande,caminhão,215/60.17,Não,1,234.3,234.3
+Sim,Aparecida,73.916.485/0001-31,01/05/2023,medio,carro,165/75.15,Sim,5,155.52,777.6
+Sim,Dias e Filhos,32.097.465/0001-07,16/12/2024,grande,caminhão,215/45.16,Sim,4,179.89,719.56
+Não,Pedro Henrique da Paz,934.016.852-60,23/07/2023,grande,caminhão,205/65.16,Não,2,203.15,406.3
+Sim,Cavalcante,65.098.174/0001-84,23/03/2024,medio,carro,175/75.15,Sim,5,189.55,947.75
+Não,Matteo Freitas,937.182.564-28,15/06/2024,grande,caminhão,215/45.17,Não,5,220.18,1100.9
+Sim,Dias e Filhos,32.097.465/0001-07,21/03/2024,grande,caminhão,215/70.17,Sim,1,162.19,162.19
+Não,Rhavi Fernandes,462.103.597-52,19/03/2024,grande,caminhão,215/65.17,Não,4,215.99,863.96
+Não,Bella da Mata,754.321.698-19,17/04/2024,medio,carro,175/65.13,Sim,1,188.39,188.39
+Não,Rodrigo Albuquerque,138.049.567-93,23/02/2024,medio,carro,165/75.16,Não,4,243.08,972.32
+Não,Ana Julia Silva,897.562.143-09,05/06/2023,grande,caminhão,225/70.17,Não,1,230.19,230.19
+Sim,Aparecida,73.916.485/0001-31,06/03/2023,medio,carro,175/75.13,Sim,2,183.18,366.36
+Não,Lara Pimenta,064.528.139-51,11/07/2024,grande,caminhão,225/60.15,Sim,6,159.47,956.82
+Não,Heloísa Porto,241.035.968-05,20/02/2025,grande,caminhão,205/70.17,Não,4,213.48,853.92
+Sim,Nascimento,04.163.295/0001-78,12/11/2023,grande,caminhão,225/55.16,Sim,5,177.49,887.45
+Sim,Costela,97.430.286/0001-87,25/09/2024,medio,carro,195/65.13,Não,3,205.18,615.54
+Não,Pedro Miguel Barbosa,093.647.518-84,31/05/2024,grande,caminhão,225/65.15,Não,4,215.58,862.32
+Sim,Nascimento,04.163.295/0001-78,01/11/2022,medio,carro,165/65.14,Não,1,215.34,215.34
+Sim,Lopes,71.095.846/0001-09,11/07/2024,grande,caminhão,205/45.16,Não,1,221.43,221.43
+Sim,Almeida,59.608.342/0001-31,18/05/2025,medio,carro,175/65.14,Sim,4,150.86,603.44
+Sim,Sampaio,85.960.143/0001-06,31/01/2024,grande,caminhão,205/45.15,Não,6,245.75,1474.5
+Sim,Costela,97.430.286/0001-87,01/06/2023,grande,caminhão,225/60.15,Sim,5,172.19,860.95
+Não,Renan da Cunha,362.170.489-22,06/04/2024,medio,carro,175/75.16,Sim,4,171.49,685.96
+Sim,Nascimento,04.163.295/0001-78,22/08/2024,grande,caminhão,215/65.17,Sim,1,154.69,154.69
+Não,Ester Nascimento,912.563.847-55,12/07/2023,grande,caminhão,225/45.15,Não,2,230.97,461.94
+Sim,Nascimento,04.163.295/0001-78,29/05/2023,grande,caminhão,205/60.16,Sim,4,150.76,603.04
+Não,João Vitor Cardoso,840.651.279-20,18/08/2022,grande,caminhão,225/65.16,Sim,4,176.41,705.64
+Sim,Sampaio,85.960.143/0001-06,05/08/2023,grande,caminhão,215/55.17,Não,3,236.1,708.3
+Não,Dra. Maitê Silva,329.546.780-38,25/10/2024,grande,caminhão,215/55.16,Não,2,202.23,404.46
+Sim,Cavalcante,65.098.174/0001-84,24/09/2023,medio,carro,165/65.16,Sim,4,184.93,739.72
+Não,Lara Vasconcelos,703.594.186-00,23/11/2024,medio,carro,195/65.14,Sim,1,165.09,165.09
+Sim,Lopes,71.095.846/0001-09,18/10/2024,grande,caminhão,215/60.16,Não,6,246.16,1476.96
+Sim,Porto Ltda.,31.502.897/0001-85,15/03/2023,grande,caminhão,225/65.16,Não,4,232.94,931.76
+Não,Gustavo Melo,542.687.103-53,02/02/2025,medio,carro,175/75.14,Sim,3,168.16,504.48
+Sim,Aparecida,73.916.485/0001-31,11/07/2022,grande,caminhão,225/60.17,Sim,1,177.23,177.23
+Sim,Lopes,71.095.846/0001-09,04/05/2024,medio,carro,185/75.14,Sim,4,160.42,641.68
+Sim,Almeida,59.608.342/0001-31,11/10/2024,medio,carro,195/65.16,Sim,2,157.11,314.22
+Sim,Lopes,71.095.846/0001-09,07/01/2024,grande,caminhão,225/65.17,Não,6,204.49,1226.94
+Não,Théo Rezende,632.401.985-33,20/07/2024,grande,caminhão,215/45.16,Não,6,208.54,1251.24
+Não,Dra. Lavínia Aragão,392.471.650-16,19/07/2022,grande,caminhão,205/55.17,Sim,4,185.26,741.04
+Não,Rafaela Cunha,714.082.563-71,27/01/2024,grande,caminhão,215/65.16,Sim,1,159.31,159.31
+Sim,Lopes,71.095.846/0001-09,25/09/2022,grande,caminhão,205/60.16,Não,2,227.21,454.42
+Não,Joaquim Pacheco,756.092.813-77,29/11/2022,grande,caminhão,225/60.17,Sim,1,163.42,163.42
+Não,Maitê Marques,826.459.703-38,26/09/2022,grande,caminhão,225/65.16,Não,1,208.91,208.91
+Não,Vitória Almeida,452.190.768-76,17/09/2022,medio,carro,175/65.15,Não,3,208.9,626.7
+Sim,Cavalcante,65.098.174/0001-84,01/11/2022,grande,caminhão,215/45.15,Sim,5,158.02,790.1
+Não,Davi Guerra,286.307.514-44,13/08/2022,grande,caminhão,205/55.15,Sim,2,189.53,379.06
+Não,Davi Luiz Câmara,413.985.706-48,28/05/2023,medio,carro,195/65.16,Sim,5,181.07,905.35
+Não,Heitor Cassiano,364.781.092-40,08/09/2022,grande,caminhão,205/70.16,Sim,5,169.99,849.95
+Não,Vitor Gabriel Leão,072.493.186-40,06/08/2024,grande,caminhão,215/70.17,Sim,4,162.41,649.64
+Sim,Almeida,59.608.342/0001-31,11/03/2025,medio,carro,195/75.14,Não,4,213.78,855.12
+Não,Dra. Emilly Gomes,098.725.364-65,08/08/2022,medio,carro,185/75.13,Não,3,205.16,615.48
+Não,Valentim Montenegro,532.867.490-10,15/12/2023,grande,caminhão,205/55.16,Sim,3,166.25,498.75
+Sim,Aparecida,73.916.485/0001-31,06/04/2025,grande,caminhão,225/45.15,Sim,2,177.6,355.2
+Sim,Sampaio,85.960.143/0001-06,04/12/2024,grande,caminhão,225/70.17,Sim,4,156.7,626.8
+Sim,Cavalcante,65.098.174/0001-84,30/07/2023,medio,carro,175/75.13,Não,4,204.92,819.68
+Sim,Cavalcante,65.098.174/0001-84,11/11/2024,grande,caminhão,225/65.16,Não,6,224.29,1345.74
+Não,Luan Vieira,265.801.934-33,26/05/2024,grande,caminhão,205/70.15,Sim,3,150.63,451.89
+Sim,Lopes,71.095.846/0001-09,23/11/2023,grande,caminhão,225/70.17,Não,5,228.97,1144.85
+Sim,Aparecida,73.916.485/0001-31,01/07/2024,grande,caminhão,225/65.16,Sim,5,167.96,839.8
+Não,Ana Vitória Casa Grande,091.534.286-33,11/06/2023,medio,carro,195/65.13,Não,4,216.54,866.16
+Sim,Aparecida,73.916.485/0001-31,25/06/2023,medio,carro,175/75.13,Sim,3,162.6,487.8
+Não,Natália Mendes,437.519.260-70,05/12/2023,grande,caminhão,205/70.17,Não,2,219.0,438.0
+Não,Sr. Vinícius Rocha,126.045.983-70,26/01/2025,medio,carro,175/65.15,Não,6,249.76,1498.56
+Não,Mariana Viana,461.928.305-33,25/12/2023,grande,caminhão,215/55.15,Não,4,237.12,948.48
+Sim,Almeida,59.608.342/0001-31,20/06/2024,medio,carro,185/75.16,Sim,6,177.71,1066.26
+Não,Luiza Guerra,046.735.821-44,11/12/2022,medio,carro,165/75.16,Sim,6,159.86,959.16
+Não,Maria Alice Jesus,390.762.158-12,10/01/2025,medio,carro,175/75.13,Sim,1,158.13,158.13
+Sim,Porto Ltda.,31.502.897/0001-85,31/03/2023,medio,carro,195/75.14,Não,4,226.48,905.92
+Sim,Porto Ltda.,31.502.897/0001-85,09/09/2024,medio,carro,185/65.13,Sim,4,158.52,634.08
+Sim,Aparecida,73.916.485/0001-31,15/01/2024,medio,carro,185/65.15,Sim,1,156.01,156.01
+Sim,Almeida,59.608.342/0001-31,15/06/2022,grande,caminhão,205/55.17,Sim,4,163.75,655.0
+Sim,Sampaio,85.960.143/0001-06,23/02/2023,grande,caminhão,205/65.17,Não,6,203.29,1219.74
+Sim,Sampaio,85.960.143/0001-06,21/11/2022,grande,caminhão,225/60.17,Sim,6,177.91,1067.46
+Sim,Lopes,71.095.846/0001-09,22/04/2024,medio,carro,185/65.13,Sim,5,177.28,886.4
+Não,Anthony Gabriel Silva,270.819.345-79,25/02/2023,grande,caminhão,225/45.15,Sim,5,150.53,752.65
+Não,Stella Barros,895.304.612-24,31/07/2022,medio,carro,195/65.16,Sim,1,178.73,178.73
+Não,Cecilia Borges,537.042.618-07,26/03/2025,medio,carro,175/75.15,Não,6,200.91,1205.46
+Não,Luana Monteiro,651.732.809-21,16/03/2024,grande,caminhão,205/70.17,Sim,4,188.62,754.48
+Sim,Almeida,59.608.342/0001-31,31/08/2022,medio,carro,165/75.15,Não,4,221.35,885.4
+Sim,Dias e Filhos,32.097.465/0001-07,14/06/2022,grande,caminhão,205/65.15,Sim,3,159.52,478.56
+Sim,Lopes,71.095.846/0001-09,16/08/2024,grande,caminhão,205/65.16,Sim,3,158.68,476.04
+Não,Henrique Gonçalves,821.079.654-20,26/09/2022,grande,caminhão,225/55.17,Sim,5,167.9,839.5
+Sim,Costela,97.430.286/0001-87,08/10/2023,grande,caminhão,215/65.15,Sim,4,179.8,719.2
+Sim,Costela,97.430.286/0001-87,10/10/2022,grande,caminhão,225/45.16,Não,6,228.98,1373.88
+Sim,Porto Ltda.,31.502.897/0001-85,03/04/2025,grande,caminhão,205/60.17,Sim,4,155.78,623.12
+Sim,Dias e Filhos,32.097.465/0001-07,08/10/2023,grande,caminhão,205/55.17,Não,2,223.59,447.18
+Sim,Sampaio,85.960.143/0001-06,13/07/2024,grande,caminhão,225/70.16,Não,3,204.59,613.77
+Sim,Moreira,98.503.472/0001-61,07/12/2022,medio,carro,195/75.16,Sim,1,177.61,177.61
+Sim,Almeida,59.608.342/0001-31,17/12/2023,grande,caminhão,215/70.17,Sim,4,177.61,710.44
+Não,Danilo Cardoso,216.048.795-30,04/05/2024,grande,caminhão,225/60.17,Não,4,203.2,812.8
+Não,Maria Cecília Câmara,438.296.507-10,07/04/2024,grande,caminhão,225/70.17,Não,2,248.92,497.84
+Sim,Sampaio,85.960.143/0001-06,14/04/2023,grande,caminhão,215/60.17,Não,4,234.67,938.68
+Não,Mathias Sampaio,074.589.621-94,20/07/2024,grande,caminhão,205/65.15,Não,4,219.48,877.92
+Não,Arthur Almeida,194.350.826-70,01/06/2025,medio,carro,185/65.14,Não,4,220.96,883.84
+Não,Maria Luiza Viana,714.203.586-26,01/08/2023,medio,carro,175/65.14,Sim,5,165.58,827.9
+Não,Sr. Luan Farias,631.982.745-91,06/05/2023,grande,caminhão,225/65.16,Não,5,246.16,1230.8
+Sim,Nascimento,04.163.295/0001-78,17/11/2022,grande,caminhão,225/70.15,Sim,2,163.12,326.24
+Não,Beatriz Guerra,520.763.189-68,07/07/2022,grande,caminhão,225/60.17,Não,1,234.95,234.95
+Não,Marcos Vinicius Albuquerque,286.037.194-03,20/02/2023,grande,caminhão,205/45.16,Não,5,240.28,1201.4
+Não,Sra. Maria Luísa Garcia,469.237.185-46,31/10/2023,grande,caminhão,205/55.17,Não,1,219.12,219.12
+Não,José Miguel Sampaio,970.136.842-87,01/04/2023,grande,caminhão,225/60.15,Não,2,208.13,416.26
+Sim,Dias e Filhos,32.097.465/0001-07,10/03/2024,grande,caminhão,205/55.15,Sim,4,160.97,643.88
+Sim,Costela,97.430.286/0001-87,10/12/2024,medio,carro,165/65.16,Não,6,212.37,1274.22
+Sim,Costela,97.430.286/0001-87,27/05/2025,grande,caminhão,225/45.17,Sim,5,185.2,926.0
+Não,Joana Viana,319.502.467-52,21/09/2022,grande,caminhão,225/45.15,Sim,1,186.57,186.57
+Sim,Aparecida,73.916.485/0001-31,10/06/2025,grande,caminhão,225/60.17,Sim,2,180.9,361.8
+Sim,Dias e Filhos,32.097.465/0001-07,28/11/2024,medio,carro,165/65.15,Sim,1,180.61,180.61
+Sim,Moreira,98.503.472/0001-61,08/09/2023,medio,carro,175/75.13,Não,6,216.59,1299.54
+Não,Maria Sophia Peixoto,917.865.032-12,20/02/2024,medio,carro,175/65.14,Não,6,207.18,1243.08
+Não,Dr. Enzo Gabriel da Paz,713.469.280-96,02/06/2025,medio,carro,195/75.13,Sim,2,155.85,311.7
+Não,Raul Marques,528.403.716-26,24/07/2022,grande,caminhão,205/65.16,Sim,4,168.27,673.08
+Não,Yago Abreu,031.726.548-26,30/05/2023,medio,carro,175/65.14,Não,1,205.43,205.43
+Não,Sra. Lara Monteiro,485.710.263-35,10/06/2025,medio,carro,165/75.15,Sim,2,168.6,337.2
+Não,Sr. Francisco Aparecida,124.596.078-49,11/08/2023,medio,carro,165/75.16,Não,6,204.79,1228.74
+Não,Gustavo Henrique Barros,513.684.972-09,14/12/2023,grande,caminhão,225/60.17,Sim,2,173.95,347.9
+Não,Otávio Sá,296.053.184-15,22/04/2023,grande,caminhão,215/45.17,Sim,2,164.72,329.44
+Não,Dra. Gabriela Melo,970.431.265-25,16/05/2023,grande,caminhão,205/70.17,Não,4,237.33,949.32
+Não,Kamilly Silveira,273.458.901-04,14/06/2024,medio,carro,175/65.14,Sim,1,153.23,153.23
+Não,Sr. Fernando das Neves,284.306.951-33,28/07/2022,grande,caminhão,225/65.15,Não,6,239.61,1437.66
+Não,Benício Campos,635.940.127-43,13/08/2024,medio,carro,175/75.14,Sim,3,167.39,502.17
+Não,Sr. Mateus Martins,639.105.842-33,26/09/2022,grande,caminhão,225/60.17,Não,4,222.62,890.48
+Não,Ravy Fogaça,164.732.859-46,14/06/2022,grande,caminhão,225/65.16,Não,3,214.44,643.32
+Sim,Almeida,59.608.342/0001-31,25/07/2022,medio,carro,165/65.14,Não,2,227.11,454.22
+Não,Marcela Pimenta,814.067.953-48,07/03/2024,grande,caminhão,205/65.17,Sim,3,153.8,461.4
+Não,Pedro Miguel Barbosa,047.398.621-31,13/02/2024,grande,caminhão,215/65.15,Não,5,224.71,1123.55
+Sim,Costela,97.430.286/0001-87,21/10/2023,medio,carro,185/75.16,Não,3,242.39,727.17
+Sim,Sampaio,85.960.143/0001-06,30/11/2023,medio,carro,165/65.14,Sim,6,154.2,925.2
+Não,Dr. Yan Sampaio,031.789.462-50,11/04/2023,medio,carro,165/65.14,Não,2,221.91,443.82
+Sim,Cavalcante,65.098.174/0001-84,10/08/2024,medio,carro,165/65.13,Não,3,238.93,716.79
+Sim,Moreira,98.503.472/0001-61,19/08/2024,grande,caminhão,225/60.16,Não,6,233.31,1399.86
+Não,Sra. Ana Sophia Peixoto,367.580.149-75,07/08/2023,grande,caminhão,225/45.17,Sim,6,171.57,1029.42
+Não,Ana Julia Souza,954.162.370-07,19/11/2024,grande,caminhão,215/45.15,Sim,3,153.96,461.88
+Não,Mariane Barbosa,587.304.692-10,08/03/2025,medio,carro,195/65.14,Sim,5,187.8,939.0
+Não,Levi Rios,304.819.672-22,31/08/2022,grande,caminhão,205/55.17,Não,1,242.93,242.93
+Não,Sr. Antony Ramos,074.123.895-05,27/09/2024,grande,caminhão,225/60.17,Não,6,243.17,1459.02
+Não,Juliana Costa,273.146.058-07,14/06/2022,medio,carro,185/65.13,Sim,6,178.13,1068.78
+Sim,Porto Ltda.,31.502.897/0001-85,27/04/2023,grande,caminhão,205/60.16,Sim,1,156.53,156.53
+Não,Otto Albuquerque,740.189.365-75,06/11/2024,grande,caminhão,215/65.16,Não,4,202.07,808.28
+Não,Lavínia Siqueira,784.506.193-00,19/12/2024,grande,caminhão,225/70.17,Não,2,210.82,421.64
+Não,Gabriela Nogueira,389.162.074-87,12/11/2023,medio,carro,165/65.16,Não,1,208.81,208.81
+Sim,Nascimento,04.163.295/0001-78,28/01/2025,medio,carro,175/75.15,Não,3,245.75,737.25
+Não,Sra. Isabella Macedo,103.489.725-04,07/06/2024,medio,carro,185/65.14,Sim,2,168.02,336.04
+Sim,Cavalcante,65.098.174/0001-84,04/10/2022,grande,caminhão,215/60.15,Sim,1,152.3,152.3
+Sim,Moreira,98.503.472/0001-61,07/12/2023,grande,caminhão,205/70.16,Sim,4,162.46,649.84
+Não,Lucca da Luz,982.137.450-60,26/09/2022,medio,carro,185/65.13,Não,5,234.28,1171.4
+Sim,Sampaio,85.960.143/0001-06,16/09/2024,medio,carro,195/75.13,Não,6,210.32,1261.92
+Não,Luiz Henrique Monteiro,817.306.549-75,21/09/2023,grande,caminhão,215/70.16,Sim,2,165.58,331.16
+Sim,Almeida,59.608.342/0001-31,16/01/2025,medio,carro,185/65.15,Sim,6,188.11,1128.66
+Sim,Costela,97.430.286/0001-87,14/02/2025,grande,caminhão,205/60.16,Sim,4,179.06,716.24
+Sim,Lopes,71.095.846/0001-09,29/12/2022,grande,caminhão,205/70.17,Não,1,246.3,246.3
+Sim,Costela,97.430.286/0001-87,22/05/2023,medio,carro,195/75.14,Sim,1,162.29,162.29
+Sim,Sampaio,85.960.143/0001-06,01/05/2025,medio,carro,195/75.14,Não,3,221.95,665.85
+Não,Otto das Neves,712.985.463-46,15/10/2022,medio,carro,175/65.14,Sim,3,184.43,553.29
+Não,Leandro Teixeira,348.971.025-88,08/01/2025,grande,caminhão,225/45.15,Não,2,212.97,425.94
+Sim,Lopes,71.095.846/0001-09,10/06/2023,medio,carro,185/65.14,Sim,2,150.9,301.8
+Não,Srta. Maria Helena Souza,462.135.897-91,01/12/2023,grande,caminhão,205/70.15,Não,4,227.68,910.72
+Sim,Cavalcante,65.098.174/0001-84,09/08/2024,medio,carro,185/75.14,Sim,6,162.04,972.24
+Sim,Moreira,98.503.472/0001-61,18/02/2024,medio,carro,175/65.16,Sim,4,176.92,707.68
+Não,Luigi Teixeira,840.251.376-07,17/10/2022,medio,carro,195/75.14,Sim,1,173.71,173.71
+Sim,Sampaio,85.960.143/0001-06,23/02/2025,medio,carro,185/75.15,Não,5,238.78,1193.9
+Sim,Almeida,59.608.342/0001-31,24/03/2023,medio,carro,175/65.13,Sim,5,163.64,818.2
+Não,Sr. Augusto Abreu,721.584.369-64,18/12/2024,grande,caminhão,225/60.15,Não,3,217.34,652.02
+Sim,Nascimento,04.163.295/0001-78,10/09/2024,medio,carro,195/75.15,Não,4,211.82,847.28
+Não,Sofia Pacheco,798.063.142-04,01/12/2024,medio,carro,165/75.13,Sim,3,169.96,509.88
+Sim,Aparecida,73.916.485/0001-31,23/09/2023,medio,carro,185/65.13,Sim,6,156.09,936.54
+Sim,Sampaio,85.960.143/0001-06,29/07/2024,grande,caminhão,205/65.15,Não,2,208.95,417.9
+Não,Pedro Miguel Cirino,745.963.801-39,18/05/2025,medio,carro,175/75.13,Não,1,212.44,212.44
+Sim,Nascimento,04.163.295/0001-78,14/11/2022,medio,carro,165/75.15,Não,2,223.01,446.02
+Não,Manuella Almeida,184.267.590-76,01/12/2023,medio,carro,175/75.15,Sim,5,159.65,798.25
+Sim,Almeida,59.608.342/0001-31,07/05/2023,medio,carro,185/65.15,Sim,6,188.09,1128.54
+Não,Mariah Vieira,617.029.853-77,03/08/2023,grande,caminhão,205/65.16,Sim,2,152.64,305.28
+Não,Rebeca Jesus,892.015.347-79,07/11/2023,medio,carro,185/65.15,Sim,3,162.16,486.48
+Sim,Porto Ltda.,31.502.897/0001-85,18/03/2025,medio,carro,185/75.15,Não,3,207.2,621.6
+Não,Maria Isis da Cunha,104.769.583-93,23/01/2024,grande,caminhão,215/55.15,Sim,6,161.41,968.46
+Não,Maria Flor Lima,705.938.412-04,01/08/2022,medio,carro,185/75.13,Sim,6,185.14,1110.84
+Não,Joana Câmara,950.348.261-51,11/09/2024,medio,carro,165/75.15,Não,4,205.88,823.52
+Não,Arthur Guerra,428.901.753-32,07/04/2023,medio,carro,195/65.15,Sim,6,175.81,1054.86
+Sim,Porto Ltda.,31.502.897/0001-85,15/07/2024,medio,carro,165/65.16,Não,2,235.47,470.94
+Não,Vicente Nunes,431.785.602-62,19/03/2023,grande,caminhão,215/60.17,Não,4,207.34,829.36
+Não,Cauê Rocha,106.423.875-08,01/03/2023,grande,caminhão,215/65.15,Não,6,224.1,1344.6
+Sim,Cavalcante,65.098.174/0001-84,05/09/2024,grande,caminhão,205/70.15,Sim,1,166.05,166.05
+Não,Arthur Miguel Cirino,974.815.203-05,14/08/2024,grande,caminhão,205/65.17,Sim,6,169.65,1017.9
+Sim,Aparecida,73.916.485/0001-31,02/07/2023,medio,carro,175/75.16,Sim,6,168.19,1009.14
+Não,Sr. Yan Gomes,198.647.203-50,29/04/2024,medio,carro,195/75.16,Não,2,238.94,477.88
+Não,Maria Eduarda Pimenta,962.104.835-42,27/09/2022,grande,caminhão,205/60.16,Sim,2,188.28,376.56
+Não,Otávio Garcia,713.860.925-68,31/12/2024,grande,caminhão,225/65.17,Sim,4,162.4,649.6
+Não,Sr. Cauê Ramos,367.981.402-03,03/07/2023,grande,caminhão,225/65.15,Sim,6,170.65,1023.9
+Não,Sofia Novais,065.183.429-51,23/12/2023,medio,carro,185/65.13,Sim,6,174.33,1045.98
+Sim,Sampaio,85.960.143/0001-06,26/09/2022,medio,carro,185/75.13,Não,5,223.69,1118.45
+Sim,Porto Ltda.,31.502.897/0001-85,13/11/2023,grande,caminhão,205/55.16,Não,4,239.53,958.12
+Não,Marcelo das Neves,105.627.984-20,26/09/2022,grande,caminhão,215/60.16,Sim,3,175.58,526.74
+Sim,Almeida,59.608.342/0001-31,19/05/2025,medio,carro,165/75.16,Sim,2,152.37,304.74
+Sim,Aparecida,73.916.485/0001-31,10/07/2022,grande,caminhão,205/45.15,Não,3,221.11,663.33
+Não,Ana Beatriz Sampaio,569.204.318-15,30/10/2024,medio,carro,165/65.15,Sim,5,155.86,779.3
+Não,Mariane Almeida,183.905.462-05,18/04/2023,medio,carro,185/75.16,Não,2,204.87,409.74
+Não,Rafaela Machado,451.736.982-09,26/12/2023,grande,caminhão,215/45.15,Sim,1,181.28,181.28
+Não,Dr. Valentim Cunha,876.329.415-09,30/10/2023,grande,caminhão,215/45.17,Não,4,226.72,906.88
+Não,Paulo Rios,023.714.865-07,26/09/2022,grande,caminhão,225/60.17,Não,6,235.58,1413.48
+Sim,Porto Ltda.,31.502.897/0001-85,31/05/2023,medio,carro,175/65.14,Não,4,243.28,973.12
+Sim,Aparecida,73.916.485/0001-31,04/10/2023,grande,caminhão,215/60.17,Sim,2,159.55,319.1
+Não,Davi Lucca da Luz,846.230.751-17,29/09/2024,grande,caminhão,205/70.15,Não,1,226.99,226.99
+Não,Heitor Andrade,358.927.140-04,31/03/2025,medio,carro,165/65.13,Sim,5,154.31,771.55
+Não,Anthony Gabriel da Costa,913.056.284-89,21/08/2024,grande,caminhão,215/60.17,Não,3,244.91,734.73
+Sim,Almeida,59.608.342/0001-31,07/11/2022,grande,caminhão,205/70.17,Sim,5,161.24,806.2
+Não,Dr. Carlos Eduardo Duarte,261.058.497-02,15/05/2023,grande,caminhão,225/60.17,Sim,5,154.43,772.15
+Não,Dra. Ayla Sousa,597.861.234-09,22/05/2025,medio,carro,195/65.16,Não,1,240.02,240.02
+Sim,Cavalcante,65.098.174/0001-84,28/06/2024,medio,carro,185/65.15,Não,3,233.85,701.55
+Sim,Moreira,98.503.472/0001-61,12/09/2024,grande,caminhão,205/65.17,Não,5,236.22,1181.1
+Não,Yuri Santos,847.016.295-02,11/12/2024,medio,carro,195/75.13,Não,2,234.62,469.24
+Não,Pedro Henrique Andrade,389.614.250-05,06/01/2025,medio,carro,175/65.15,Não,1,233.49,233.49
+Não,Alice Moura,876.524.391-91,16/12/2024,grande,caminhão,225/70.17,Sim,1,173.09,173.09
+Não,José Lopes,420.567.183-08,20/11/2024,medio,carro,195/65.15,Sim,4,182.36,729.44
+Não,Maria Julia Aparecida,023.748.615-62,29/01/2023,medio,carro,185/75.15,Não,5,223.86,1119.3
+Sim,Sampaio,85.960.143/0001-06,27/06/2023,medio,carro,165/65.14,Sim,1,184.74,184.74
+Não,Luísa Araújo,462.157.809-01,21/12/2022,medio,carro,185/65.13,Sim,2,152.85,305.7
+Sim,Moreira,98.503.472/0001-61,12/02/2025,grande,caminhão,215/60.15,Não,6,215.98,1295.88
+Sim,Moreira,98.503.472/0001-61,21/12/2024,medio,carro,185/75.13,Sim,2,175.95,351.9
+Não,Miguel Silva,908.516.342-06,21/12/2022,grande,caminhão,215/45.17,Sim,2,180.04,360.08
+Não,Maria Luísa Vargas,502.681.397-68,18/06/2023,medio,carro,165/65.14,Sim,3,153.3,459.9
+Sim,Almeida,59.608.342/0001-31,22/11/2024,medio,carro,185/65.15,Não,4,205.11,820.44
+Não,Thiago Marques,280.769.134-03,04/09/2022,grande,caminhão,205/45.15,Sim,4,156.5,626.0
+Sim,Aparecida,73.916.485/0001-31,18/05/2023,grande,caminhão,205/60.16,Sim,1,152.22,152.22
+Sim,Almeida,59.608.342/0001-31,24/09/2023,grande,caminhão,215/60.16,Sim,3,176.96,530.88
+Sim,Aparecida,73.916.485/0001-31,05/12/2022,medio,carro,185/65.16,Sim,3,186.02,558.06
+Sim,Lopes,71.095.846/0001-09,11/07/2023,medio,carro,195/65.13,Não,3,223.93,671.79
+Sim,Lopes,71.095.846/0001-09,15/01/2025,grande,caminhão,225/70.17,Não,5,206.27,1031.35
+Não,Melissa Abreu,206.453.879-83,14/05/2023,medio,carro,175/75.16,Sim,1,163.85,163.85
+Sim,Aparecida,73.916.485/0001-31,23/01/2023,medio,carro,165/75.14,Não,3,222.89,668.67
+Sim,Aparecida,73.916.485/0001-31,20/07/2024,grande,caminhão,205/60.15,Não,4,202.37,809.48
+Sim,Cavalcante,65.098.174/0001-84,25/05/2023,medio,carro,175/75.14,Não,2,247.72,495.44
+Sim,Costela,97.430.286/0001-87,27/05/2025,grande,caminhão,225/45.15,Sim,4,162.72,650.88
+Sim,Lopes,71.095.846/0001-09,19/10/2024,medio,carro,175/65.15,Não,2,218.08,436.16
+Não,Kevin Correia,723.981.604-40,16/05/2024,grande,caminhão,215/65.15,Sim,5,167.44,837.2
+Sim,Costela,97.430.286/0001-87,26/03/2024,grande,caminhão,225/45.16,Não,5,224.51,1122.55
+Não,Srta. Eduarda da Costa,248.609.751-11,08/07/2023,grande,caminhão,225/65.15,Não,6,247.97,1487.82
+Não,Luara da Conceição,894.026.571-85,27/05/2024,medio,carro,175/75.16,Sim,4,180.15,720.6
+Sim,Porto Ltda.,31.502.897/0001-85,03/05/2025,grande,caminhão,215/65.17,Sim,4,182.8,731.2
+Sim,Dias e Filhos,32.097.465/0001-07,05/08/2022,medio,carro,185/75.14,Não,5,209.62,1048.1
+Sim,Dias e Filhos,32.097.465/0001-07,20/11/2024,medio,carro,175/65.15,Sim,6,172.48,1034.88
+Não,Isis Abreu,193.746.852-64,03/03/2025,medio,carro,165/75.14,Sim,6,186.43,1118.58
+Sim,Aparecida,73.916.485/0001-31,18/12/2022,grande,caminhão,205/65.17,Não,3,244.57,733.71
+Sim,Nascimento,04.163.295/0001-78,30/04/2025,grande,caminhão,215/65.16,Não,6,205.08,1230.48
+Sim,Costela,97.430.286/0001-87,21/07/2024,medio,carro,165/75.14,Não,5,227.53,1137.65
+Não,Oliver da Conceição,215.639.470-99,22/03/2023,grande,caminhão,205/60.15,Não,4,238.79,955.16
+Sim,Nascimento,04.163.295/0001-78,29/01/2025,grande,caminhão,215/60.16,Não,4,231.03,924.12
+Não,Jade Fogaça,039.215.786-12,25/02/2023,grande,caminhão,205/70.16,Não,3,228.55,685.65
+Não,Dr. Diego Sá,935.840.716-66,24/02/2023,medio,carro,185/65.16,Sim,5,158.73,793.65
+Sim,Costela,97.430.286/0001-87,27/09/2024,medio,carro,175/65.15,Não,4,236.24,944.96
+Não,Júlia Novais,435.917.068-84,16/05/2024,grande,caminhão,205/65.17,Sim,2,179.31,358.62
+Sim,Lopes,71.095.846/0001-09,20/10/2022,grande,caminhão,215/70.17,Sim,5,181.95,909.75
+Sim,Nascimento,04.163.295/0001-78,13/08/2023,grande,caminhão,205/45.15,Sim,1,163.75,163.75
+Sim,Sampaio,85.960.143/0001-06,10/02/2023,grande,caminhão,215/45.16,Não,2,234.85,469.7
+Sim,Cavalcante,65.098.174/0001-84,13/01/2023,medio,carro,185/65.13,Sim,6,172.93,1037.58
+Sim,Cavalcante,65.098.174/0001-84,21/03/2024,grande,caminhão,205/60.16,Sim,1,180.25,180.25
+Não,Ayla Castro,198.265.430-98,23/11/2022,medio,carro,195/75.16,Sim,3,169.62,508.86
+Sim,Aparecida,73.916.485/0001-31,13/08/2022,grande,caminhão,225/45.15,Sim,6,165.7,994.2
+Sim,Dias e Filhos,32.097.465/0001-07,19/06/2023,medio,carro,165/65.14,Sim,4,157.33,629.32
+Sim,Sampaio,85.960.143/0001-06,16/08/2023,medio,carro,185/75.13,Sim,2,176.79,353.58
+Sim,Nascimento,04.163.295/0001-78,19/10/2023,medio,carro,195/75.15,Sim,1,180.29,180.29
+Sim,Almeida,59.608.342/0001-31,22/05/2023,grande,caminhão,205/70.16,Sim,2,165.16,330.32
+Não,Ágatha da Rocha,965.281.073-86,24/11/2024,grande,caminhão,225/55.17,Não,5,235.75,1178.75
+Sim,Costela,97.430.286/0001-87,25/03/2023,grande,caminhão,215/60.16,Sim,6,170.21,1021.26
+Sim,Aparecida,73.916.485/0001-31,15/08/2023,grande,caminhão,215/65.17,Sim,5,176.65,883.25
+Não,Davi Luiz Vieira,610.927.835-12,19/06/2023,grande,caminhão,205/65.17,Não,6,233.64,1401.84
+Não,Murilo Cunha,102.458.679-02,22/08/2023,grande,caminhão,215/60.17,Sim,4,150.35,601.4
+Sim,Aparecida,73.916.485/0001-31,24/12/2022,medio,carro,175/75.14,Não,1,241.7,241.7
+Não,Daniela Andrade,480.127.395-50,26/08/2022,medio,carro,175/65.16,Não,2,249.59,499.18
+Sim,Dias e Filhos,32.097.465/0001-07,21/08/2022,medio,carro,175/75.15,Sim,4,179.0,716.0
+Sim,Almeida,59.608.342/0001-31,20/05/2024,grande,caminhão,205/60.15,Não,6,236.23,1417.38
+Sim,Almeida,59.608.342/0001-31,18/08/2023,medio,carro,185/65.13,Não,3,224.84,674.52
+Sim,Porto Ltda.,31.502.897/0001-85,20/09/2024,grande,caminhão,225/65.17,Sim,2,178.49,356.98
+Não,Sr. Thiago da Costa,437.962.108-13,12/02/2023,medio,carro,185/65.13,Sim,2,170.59,341.18
+Não,Rebeca Alves,279.806.541-02,09/08/2023,medio,carro,185/65.15,Sim,4,169.59,678.36
+Não,Maria Fernanda Cassiano,231.897.560-40,21/05/2023,medio,carro,165/65.16,Não,5,235.16,1175.8
+Sim,Almeida,59.608.342/0001-31,28/03/2025,grande,caminhão,215/65.15,Sim,1,178.21,178.21
+Sim,Costela,97.430.286/0001-87,19/09/2024,medio,carro,195/75.15,Sim,2,150.92,301.84
+Não,Pedro Lucas Fernandes,283.697.514-82,15/08/2023,medio,carro,195/65.16,Sim,6,160.42,962.52
+Não,Ágatha Martins,201.596.743-52,10/11/2024,grande,caminhão,205/45.16,Sim,1,165.16,165.16
+Sim,Dias e Filhos,32.097.465/0001-07,15/07/2024,medio,carro,185/65.13,Não,1,208.38,208.38
+Sim,Dias e Filhos,32.097.465/0001-07,03/02/2023,grande,caminhão,215/70.17,Não,5,245.25,1226.25
+Sim,Aparecida,73.916.485/0001-31,28/01/2025,medio,carro,175/65.16,Sim,4,171.73,686.92
+Sim,Cavalcante,65.098.174/0001-84,10/11/2023,grande,caminhão,205/60.17,Não,3,245.48,736.44
+Sim,Lopes,71.095.846/0001-09,16/02/2025,grande,caminhão,215/55.17,Sim,6,157.42,944.52
+Sim,Aparecida,73.916.485/0001-31,13/08/2022,medio,carro,175/65.13,Sim,6,186.01,1116.06
+Não,Aylla Fogaça,758.304.629-74,28/08/2022,grande,caminhão,205/45.15,Não,2,202.17,404.34
+Sim,Nascimento,04.163.295/0001-78,18/05/2024,medio,carro,175/65.16,Não,2,243.67,487.34
+Não,Lucas Gabriel da Paz,283.504.619-42,09/07/2023,grande,caminhão,205/45.15,Sim,5,180.36,901.8
+Sim,Cavalcante,65.098.174/0001-84,18/06/2023,medio,carro,165/75.14,Não,5,236.5,1182.5
+Sim,Moreira,98.503.472/0001-61,24/12/2024,grande,caminhão,215/60.15,Sim,4,166.29,665.16
+Sim,Almeida,59.608.342/0001-31,24/06/2023,medio,carro,165/65.13,Não,6,206.19,1237.14
+Não,Bárbara Garcia,267.935.148-73,09/12/2024,grande,caminhão,215/70.17,Não,2,207.49,414.98
+Sim,Lopes,71.095.846/0001-09,18/10/2022,grande,caminhão,215/45.15,Não,6,235.49,1412.94
+Não,Eloah Rios,098.325.671-30,01/12/2023,grande,caminhão,205/60.15,Não,4,237.36,949.44
+Não,Gael Siqueira,032.748.165-07,08/01/2025,medio,carro,195/65.14,Sim,6,172.71,1036.26
+Não,Dr. Dom Casa Grande,679.815.240-67,24/04/2025,medio,carro,165/75.15,Sim,2,173.85,347.7
+Sim,Sampaio,85.960.143/0001-06,18/08/2024,grande,caminhão,205/60.17,Não,4,221.29,885.16
+Não,Stephany da Mota,597.841.362-28,07/05/2024,grande,caminhão,225/65.15,Não,5,233.69,1168.45
+Não,Breno Nascimento,738.540.296-83,16/03/2025,grande,caminhão,225/55.17,Sim,6,164.55,987.3
+Não,Olívia Rocha,203.681.945-15,16/08/2024,grande,caminhão,225/65.17,Não,1,216.44,216.44
+Não,Stella Freitas,186.973.450-57,21/09/2024,grande,caminhão,205/55.17,Sim,6,159.57,957.42
+Sim,Aparecida,73.916.485/0001-31,14/11/2024,medio,carro,165/75.15,Sim,1,184.29,184.29
+Sim,Lopes,71.095.846/0001-09,23/03/2023,medio,carro,185/75.16,Não,3,227.59,682.77
+Não,Enzo Araújo,150.349.782-88,31/10/2022,grande,caminhão,215/65.16,Sim,1,152.41,152.41
+Sim,Moreira,98.503.472/0001-61,19/02/2024,medio,carro,195/65.15,Não,5,212.3,1061.5
+Sim,Moreira,98.503.472/0001-61,30/07/2022,grande,caminhão,205/60.17,Não,2,244.13,488.26
+Não,Maitê Castro,107.235.846-80,07/03/2024,grande,caminhão,215/55.17,Não,3,226.27,678.81
+Não,Calebe Garcia,143.862.795-55,22/12/2024,medio,carro,195/65.14,Não,6,210.59,1263.54
+Sim,Costela,97.430.286/0001-87,07/09/2024,grande,caminhão,205/45.15,Sim,3,189.74,569.22
+Não,Asafe Santos,712.806.394-31,04/05/2024,medio,carro,175/75.15,Sim,6,153.82,922.92
+Não,Hellena Moreira,687.259.431-46,09/08/2022,grande,caminhão,225/65.15,Não,5,202.07,1010.35
+Não,Stella Cunha,327.951.846-64,22/10/2024,grande,caminhão,225/55.17,Sim,2,167.55,335.1
+Sim,Almeida,59.608.342/0001-31,27/02/2023,grande,caminhão,205/65.16,Não,1,223.35,223.35
+Sim,Porto Ltda.,31.502.897/0001-85,26/01/2024,medio,carro,195/65.13,Sim,6,176.01,1056.06
+Não,Davi Miguel Pacheco,591.476.203-07,24/12/2023,grande,caminhão,205/55.15,Sim,3,183.53,550.59
+Sim,Almeida,59.608.342/0001-31,28/06/2022,medio,carro,175/75.15,Não,3,223.58,670.74
+Não,Benicio Machado,091.365.247-43,04/05/2024,grande,caminhão,215/70.17,Sim,2,161.64,323.28
+Sim,Porto Ltda.,31.502.897/0001-85,22/07/2023,medio,carro,175/65.16,Sim,1,187.34,187.34
+Não,Dra. Carolina Moraes,980.421.365-60,10/10/2022,grande,caminhão,215/70.16,Não,1,210.24,210.24
+Sim,Porto Ltda.,31.502.897/0001-85,18/06/2024,medio,carro,195/75.13,Não,2,225.76,451.52
+Não,Marcelo Castro,817.035.649-01,24/07/2024,medio,carro,175/75.14,Não,3,222.0,666.0
+Sim,Cavalcante,65.098.174/0001-84,30/04/2023,grande,caminhão,225/55.16,Sim,6,169.61,1017.66
+Sim,Almeida,59.608.342/0001-31,10/04/2023,medio,carro,165/75.13,Sim,3,189.41,568.23
+Sim,Lopes,71.095.846/0001-09,22/05/2025,grande,caminhão,205/55.17,Sim,4,159.34,637.36
+Sim,Sampaio,85.960.143/0001-06,18/10/2022,medio,carro,195/65.16,Sim,6,183.77,1102.62
+Não,Sra. Liz Vieira,609.573.418-57,07/09/2022,grande,caminhão,215/55.17,Não,3,218.42,655.26
+Não,Thomas Lima,384.715.692-64,10/06/2023,grande,caminhão,215/45.15,Sim,6,183.48,1100.88
+Sim,Sampaio,85.960.143/0001-06,19/03/2024,medio,carro,175/65.15,Sim,6,154.96,929.76
+Sim,Costela,97.430.286/0001-87,25/02/2025,medio,carro,175/65.14,Sim,3,187.58,562.74
+Não,Ravy Guerra,103.429.786-40,29/12/2024,medio,carro,195/75.15,Sim,2,184.07,368.14
+Sim,Almeida,59.608.342/0001-31,05/01/2023,grande,caminhão,205/60.15,Sim,4,168.83,675.32
+Não,Calebe Sampaio,574.283.106-44,31/10/2022,medio,carro,165/65.13,Sim,3,185.16,555.48
+Sim,Porto Ltda.,31.502.897/0001-85,06/07/2022,grande,caminhão,205/45.17,Sim,2,189.68,379.36
+Não,Marcelo Moraes,960.217.438-22,17/05/2025,medio,carro,165/75.13,Sim,3,175.78,527.34
+Não,Leandro Sá,492.576.081-58,20/07/2023,medio,carro,165/75.15,Não,2,247.29,494.58
+Não,Cecília Cirino,812.953.460-60,11/09/2024,medio,carro,185/65.14,Sim,3,168.68,506.04
+Sim,Almeida,59.608.342/0001-31,08/07/2023,grande,caminhão,205/55.17,Não,5,231.61,1158.05
+Não,Hellena Monteiro,821.407.635-80,30/03/2024,medio,carro,175/65.14,Sim,6,176.78,1060.68
+Sim,Lopes,71.095.846/0001-09,30/06/2022,grande,caminhão,205/65.16,Não,5,248.58,1242.9
+Sim,Nascimento,04.163.295/0001-78,02/07/2024,grande,caminhão,215/65.15,Não,3,229.25,687.75
+Sim,Costela,97.430.286/0001-87,26/03/2024,medio,carro,195/65.13,Sim,5,153.97,769.85
+Sim,Dias e Filhos,32.097.465/0001-07,14/03/2023,medio,carro,165/65.13,Não,2,211.71,423.42
+Não,Henry Gabriel Lima,476.012.389-03,06/12/2022,grande,caminhão,205/65.15,Sim,1,184.83,184.83
+Não,Arthur Gabriel Viana,260.934.178-40,23/11/2023,medio,carro,185/65.14,Não,5,229.59,1147.95
+Não,Dra. Lavínia Peixoto,475.206.198-85,22/05/2025,grande,caminhão,205/55.16,Sim,3,182.54,547.62
+Não,Bernardo Pinto,279.860.143-69,04/11/2023,grande,caminhão,205/70.17,Não,6,230.25,1381.5
+Sim,Aparecida,73.916.485/0001-31,03/05/2023,medio,carro,175/75.14,Sim,4,178.04,712.16
+Não,Renan Costa,238.954.760-56,28/01/2023,grande,caminhão,205/55.17,Sim,3,159.74,479.22
+Sim,Sampaio,85.960.143/0001-06,25/09/2024,medio,carro,195/75.15,Sim,1,177.03,177.03
+Sim,Porto Ltda.,31.502.897/0001-85,14/08/2023,grande,caminhão,215/60.16,Não,5,240.69,1203.45
+Não,Luara Fogaça,159.476.083-75,25/10/2023,grande,caminhão,205/60.16,Sim,4,151.24,604.96
+Sim,Lopes,71.095.846/0001-09,08/12/2022,grande,caminhão,225/70.15,Não,3,228.86,686.58
+Sim,Cavalcante,65.098.174/0001-84,12/09/2024,grande,caminhão,215/70.16,Não,2,240.95,481.9
+Sim,Aparecida,73.916.485/0001-31,21/02/2024,grande,caminhão,225/45.17,Não,4,237.33,949.32
+Não,Bianca Cirino,041.536.978-93,21/08/2023,grande,caminhão,215/65.17,Sim,4,181.52,726.08
+Não,Thomas Borges,352.417.960-61,29/10/2023,grande,caminhão,205/60.15,Não,1,232.37,232.37
+Sim,Moreira,98.503.472/0001-61,16/11/2022,medio,carro,165/75.15,Sim,3,178.81,536.43
+Não,Luiz Miguel Almeida,138.940.276-22,14/08/2023,grande,caminhão,225/45.16,Sim,5,171.28,856.4
+Sim,Aparecida,73.916.485/0001-31,20/03/2025,medio,carro,175/65.15,Sim,4,170.52,682.08
+Sim,Aparecida,73.916.485/0001-31,13/11/2024,medio,carro,175/75.15,Sim,5,182.27,911.35
+Não,Srta. Mirella Mendonça,612.435.087-44,28/02/2024,grande,caminhão,225/45.16,Sim,3,185.2,555.6
+Não,Maria Clara Cunha,875.963.124-46,25/12/2024,medio,carro,185/65.14,Sim,3,185.04,555.12
+Sim,Almeida,59.608.342/0001-31,31/10/2022,medio,carro,195/65.14,Sim,3,158.21,474.63
+Não,Srta. Rebeca Azevedo,619.748.253-37,24/01/2023,medio,carro,185/75.16,Não,1,245.27,245.27
+Não,Emilly Cardoso,204.316.598-42,09/11/2022,medio,carro,195/65.15,Sim,4,161.8,647.2
+Não,Daniel Fogaça,915.874.326-09,14/02/2023,medio,carro,185/65.13,Não,6,234.89,1409.34
+Não,Sr. Antony Melo,159.430.827-60,02/01/2025,medio,carro,165/75.16,Sim,2,185.8,371.6
+Não,Luigi Silveira,796.508.134-20,14/04/2024,medio,carro,165/65.13,Sim,5,180.68,903.4
+Não,Thomas Camargo,376.902.514-80,25/07/2022,medio,carro,185/65.15,Sim,1,180.58,180.58
+Sim,Cavalcante,65.098.174/0001-84,16/03/2024,medio,carro,195/75.14,Sim,2,186.9,373.8
+Sim,Nascimento,04.163.295/0001-78,21/08/2023,grande,caminhão,225/60.16,Não,4,219.95,879.8
+Sim,Almeida,59.608.342/0001-31,08/05/2023,medio,carro,185/75.14,Não,3,231.24,693.72
+Não,Isis Oliveira,759.482.301-04,18/03/2025,grande,caminhão,215/60.17,Sim,4,157.26,629.04
+Não,Enzo da Costa,149.380.752-88,05/10/2024,grande,caminhão,225/65.16,Sim,1,182.7,182.7
+Não,Rodrigo Pires,057.384.261-26,02/11/2022,medio,carro,195/75.15,Sim,2,171.93,343.86
+Não,Thomas da Rocha,803.264.957-38,28/05/2025,medio,carro,165/65.14,Sim,3,164.38,493.14
+Não,Henry Pires,108.654.973-20,01/09/2024,medio,carro,175/75.14,Sim,5,181.21,906.05
+Sim,Aparecida,73.916.485/0001-31,06/04/2023,medio,carro,165/65.13,Sim,1,162.99,162.99
+Sim,Cavalcante,65.098.174/0001-84,09/11/2024,grande,caminhão,225/70.15,Sim,5,166.16,830.8
+Não,Vicente Aparecida,542.916.308-24,29/11/2024,grande,caminhão,205/45.16,Não,2,216.82,433.64
+Sim,Lopes,71.095.846/0001-09,22/06/2024,grande,caminhão,205/55.16,Não,2,249.89,499.78
+Não,Larissa Araújo,619.207.354-61,12/08/2024,grande,caminhão,225/45.15,Sim,4,184.29,737.16
+Não,Maria Eduarda Pires,869.312.740-31,16/06/2022,medio,carro,195/65.16,Sim,1,174.18,174.18
+Sim,Porto Ltda.,31.502.897/0001-85,06/09/2024,grande,caminhão,225/70.16,Não,5,205.49,1027.45
+Sim,Porto Ltda.,31.502.897/0001-85,25/05/2024,medio,carro,195/75.13,Não,4,228.71,914.84
+Sim,Dias e Filhos,32.097.465/0001-07,16/11/2024,grande,caminhão,205/65.17,Não,1,242.04,242.04
+Sim,Lopes,71.095.846/0001-09,09/05/2024,grande,caminhão,205/45.17,Não,4,249.98,999.92
+Sim,Porto Ltda.,31.502.897/0001-85,21/09/2022,medio,carro,195/75.13,Não,5,209.14,1045.7
+Não,Benjamim Pires,208.156.437-80,16/10/2022,grande,caminhão,205/70.17,Sim,2,184.65,369.3
+Não,Augusto Vieira,489.601.725-02,18/01/2024,grande,caminhão,205/55.16,Não,4,226.93,907.72
+Não,Srta. Olivia Nunes,175.462.038-80,12/01/2024,medio,carro,175/75.13,Sim,6,165.06,990.36
+Sim,Aparecida,73.916.485/0001-31,18/09/2024,medio,carro,185/75.15,Não,3,243.97,731.91
+Não,Dra. Laís Oliveira,087.415.362-07,07/05/2025,medio,carro,185/65.15,Não,4,241.56,966.24
+Sim,Sampaio,85.960.143/0001-06,18/05/2024,medio,carro,165/65.15,Não,2,246.43,492.86
+Sim,Cavalcante,65.098.174/0001-84,16/03/2025,grande,caminhão,215/65.17,Não,2,219.68,439.36
+Sim,Nascimento,04.163.295/0001-78,28/10/2024,medio,carro,165/65.14,Não,2,215.6,431.2
+Sim,Aparecida,73.916.485/0001-31,11/03/2024,medio,carro,185/75.14,Sim,3,161.87,485.61
+Sim,Costela,97.430.286/0001-87,01/11/2022,grande,caminhão,205/55.15,Sim,6,186.05,1116.3
+Não,Rafaela Montenegro,469.230.185-60,05/05/2024,medio,carro,185/75.16,Não,4,236.65,946.6
+Sim,Almeida,59.608.342/0001-31,14/03/2024,grande,caminhão,215/45.15,Sim,6,182.84,1097.04
+Sim,Cavalcante,65.098.174/0001-84,10/12/2022,medio,carro,175/75.15,Não,6,230.62,1383.72
+Não,Sr. Ravi Lucca Albuquerque,740.352.816-62,26/03/2025,grande,caminhão,225/65.16,Não,6,204.94,1229.64
+Sim,Lopes,71.095.846/0001-09,08/12/2024,medio,carro,175/65.14,Não,4,242.69,970.76
+Não,Vinicius Vargas,137.920.468-22,08/12/2022,grande,caminhão,225/55.17,Sim,2,187.94,375.88
+Sim,Almeida,59.608.342/0001-31,28/09/2023,grande,caminhão,215/60.16,Sim,4,170.97,683.88
+Não,Isabelly Monteiro,250.176.948-11,28/11/2023,grande,caminhão,215/55.17,Não,2,235.86,471.72
+Não,Srta. Agatha da Cunha,425.760.391-70,11/07/2023,grande,caminhão,215/65.17,Sim,3,151.73,455.19
+Sim,Dias e Filhos,32.097.465/0001-07,19/10/2024,grande,caminhão,215/70.17,Sim,5,184.61,923.05
+Sim,Sampaio,85.960.143/0001-06,29/10/2024,grande,caminhão,205/65.15,Sim,5,173.2,866.0
+Não,João Guilherme da Costa,857.461.923-09,24/09/2022,medio,carro,175/65.13,Sim,1,184.05,184.05
+Sim,Moreira,98.503.472/0001-61,09/11/2022,grande,caminhão,215/70.17,Sim,2,173.89,347.78
+Sim,Cavalcante,65.098.174/0001-84,27/03/2023,medio,carro,185/75.16,Sim,3,154.0,462.0
+Não,Dr. Gustavo Henrique Abreu,714.052.689-30,02/12/2024,medio,carro,185/75.14,Sim,4,180.56,722.24
+Não,Amanda Rocha,165.479.382-55,04/04/2025,grande,caminhão,225/60.17,Não,3,242.15,726.45
+Sim,Moreira,98.503.472/0001-61,07/05/2025,grande,caminhão,205/45.16,Sim,6,177.62,1065.72
+Não,Heitor Almeida,814.073.529-97,09/02/2023,grande,caminhão,215/45.17,Sim,1,175.87,175.87
+Sim,Almeida,59.608.342/0001-31,23/09/2023,medio,carro,185/65.14,Sim,3,163.88,491.64
+Sim,Porto Ltda.,31.502.897/0001-85,17/09/2022,grande,caminhão,215/45.15,Não,6,212.43,1274.58
+Sim,Nascimento,04.163.295/0001-78,30/10/2024,grande,caminhão,225/65.17,Sim,1,189.01,189.01
+Não,Bryan Garcia,634.528.071-26,05/10/2023,grande,caminhão,225/65.15,Sim,5,177.55,887.75
+Não,Francisco Casa Grande,294.175.063-07,01/02/2025,medio,carro,185/65.15,Não,2,202.43,404.86
+Sim,Costela,97.430.286/0001-87,24/12/2022,medio,carro,185/75.16,Sim,1,176.01,176.01
+Sim,Costela,97.430.286/0001-87,26/09/2023,grande,caminhão,205/70.15,Não,3,209.55,628.65
+Sim,Sampaio,85.960.143/0001-06,08/04/2024,grande,caminhão,225/60.15,Sim,1,156.26,156.26
+Não,Anthony Gabriel Pacheco,896.427.053-38,13/01/2024,grande,caminhão,215/55.16,Não,1,230.0,230.0
+Não,Dr. Francisco Teixeira,069.321.584-42,18/07/2024,medio,carro,165/65.13,Não,5,224.19,1120.95
+Não,Diego Almeida,572.916.408-49,05/10/2024,grande,caminhão,215/60.16,Não,2,212.7,425.4
+Sim,Lopes,71.095.846/0001-09,09/04/2024,grande,caminhão,225/65.16,Sim,6,150.38,902.28
+Não,Augusto Nascimento,178.605.923-12,10/11/2022,medio,carro,185/75.13,Não,4,242.92,971.68
+Não,Benjamin Rodrigues,298.361.540-51,26/04/2024,grande,caminhão,225/60.16,Sim,6,169.83,1018.98
+Não,João Miguel Oliveira,936.714.025-80,19/08/2024,grande,caminhão,225/70.16,Sim,6,158.55,951.3
+Sim,Nascimento,04.163.295/0001-78,22/01/2023,grande,caminhão,215/70.17,Sim,3,172.53,517.59
+Não,Alexia Alves,598.103.472-60,03/07/2022,grande,caminhão,225/70.15,Sim,6,184.16,1104.96
+Sim,Nascimento,04.163.295/0001-78,19/01/2025,grande,caminhão,225/60.16,Não,2,209.89,419.78
+Sim,Dias e Filhos,32.097.465/0001-07,09/09/2022,medio,carro,165/65.13,Sim,2,178.72,357.44
+Sim,Aparecida,73.916.485/0001-31,18/09/2024,grande,caminhão,205/45.15,Não,1,223.89,223.89
+Não,Davi Lucca Silveira,195.364.207-16,09/02/2023,medio,carro,175/75.15,Não,5,237.24,1186.2
+Sim,Moreira,98.503.472/0001-61,01/05/2023,grande,caminhão,225/70.16,Sim,4,175.03,700.12
+Não,Sr. Léo Guerra,125.760.894-02,07/09/2024,medio,carro,185/65.14,Sim,2,150.19,300.38
+Não,Rhavi Fernandes,506.817.294-49,25/01/2024,grande,caminhão,225/65.15,Não,1,244.44,244.44
+Não,Rafaela Moura,391.276.458-19,10/07/2023,medio,carro,165/75.16,Não,2,222.22,444.44
+Sim,Dias e Filhos,32.097.465/0001-07,05/12/2023,grande,caminhão,225/55.16,Não,3,217.23,651.69
+Não,Lucca Gomes,715.298.064-02,21/03/2024,grande,caminhão,215/60.15,Não,4,238.68,954.72
+Não,Eduardo Santos,785.602.341-44,24/06/2022,medio,carro,185/65.14,Sim,5,171.11,855.55
+Sim,Costela,97.430.286/0001-87,28/02/2023,medio,carro,185/75.16,Não,5,202.11,1010.55
+Sim,Moreira,98.503.472/0001-61,23/02/2023,medio,carro,185/65.14,Sim,6,185.48,1112.88
+Não,Gustavo Aragão,831.954.206-51,30/03/2023,grande,caminhão,225/45.16,Sim,6,174.03,1044.18
+Não,Gabrielly Araújo,694.703.218-04,15/08/2022,grande,caminhão,205/65.16,Sim,4,167.39,669.56
+Sim,Costela,97.430.286/0001-87,04/10/2022,grande,caminhão,215/70.17,Não,4,200.38,801.52
+Sim,Costela,97.430.286/0001-87,15/07/2024,medio,carro,185/75.14,Sim,6,180.87,1085.22
+Sim,Moreira,98.503.472/0001-61,20/11/2023,medio,carro,175/65.13,Sim,5,175.33,876.65
+Não,Luiz Miguel Rios,348.719.052-41,25/05/2024,medio,carro,175/75.14,Não,6,247.82,1486.92
+Sim,Sampaio,85.960.143/0001-06,12/04/2025,grande,caminhão,225/70.16,Não,6,231.95,1391.7
+Sim,Aparecida,73.916.485/0001-31,29/01/2023,medio,carro,165/75.15,Não,4,213.14,852.56
+Não,Pietro Costa,895.231.647-91,24/02/2023,grande,caminhão,205/60.16,Sim,3,159.76,479.28
+Sim,Aparecida,73.916.485/0001-31,12/04/2024,medio,carro,185/75.16,Sim,2,182.33,364.66
+Sim,Costela,97.430.286/0001-87,16/08/2024,grande,caminhão,205/70.17,Sim,4,153.61,614.44
+Sim,Porto Ltda.,31.502.897/0001-85,08/12/2022,grande,caminhão,225/55.17,Não,1,207.86,207.86
+Sim,Moreira,98.503.472/0001-61,08/06/2025,grande,caminhão,215/70.16,Não,6,222.32,1333.92
+Não,Daniela Casa Grande,463.850.971-10,02/01/2024,medio,carro,175/75.13,Sim,2,161.58,323.16
+Sim,Porto Ltda.,31.502.897/0001-85,28/12/2024,medio,carro,185/65.14,Não,1,204.78,204.78
+Sim,Porto Ltda.,31.502.897/0001-85,16/03/2024,grande,caminhão,205/55.16,Não,3,217.23,651.69
+Sim,Sampaio,85.960.143/0001-06,08/06/2023,medio,carro,185/75.13,Sim,6,155.76,934.56
+Sim,Costela,97.430.286/0001-87,08/07/2023,medio,carro,165/75.16,Sim,2,183.14,366.28
+Não,Ana Cecília Sá,197.356.408-48,14/09/2023,grande,caminhão,225/45.17,Não,3,242.8,728.4
+Não,Ravi Lucca Fogaça,213.704.589-32,05/03/2024,grande,caminhão,205/45.16,Não,5,231.66,1158.3
+Não,Clarice da Mota,073.418.962-13,12/06/2024,grande,caminhão,225/60.17,Não,2,208.23,416.46
+Não,Ryan da Cunha,032.976.184-69,06/12/2024,medio,carro,165/65.13,Sim,4,156.63,626.52
+Sim,Sampaio,85.960.143/0001-06,25/11/2023,medio,carro,185/65.14,Não,1,204.15,204.15
+Não,Dante Nogueira,746.328.091-87,17/02/2024,medio,carro,195/65.14,Não,6,219.96,1319.76
+Não,Stephany Lima,396.705.182-02,26/03/2023,medio,carro,175/75.16,Não,5,235.32,1176.6
+Não,Théo Rodrigues,310.549.678-57,13/02/2024,grande,caminhão,205/60.15,Não,1,205.99,205.99
+Não,Pedro Lucas Pires,528.974.163-19,13/02/2023,medio,carro,175/65.14,Não,3,203.7,611.1
+Não,Eduarda Aparecida,643.217.980-78,23/08/2024,medio,carro,185/75.13,Sim,2,170.91,341.82
+Não,Ana Sophia Jesus,104.895.263-06,21/02/2023,medio,carro,195/75.13,Não,5,233.05,1165.25
+Não,Clara Duarte,198.537.620-21,02/08/2023,grande,caminhão,225/45.17,Sim,3,173.13,519.39
+Sim,Porto Ltda.,31.502.897/0001-85,21/05/2023,medio,carro,175/65.14,Não,4,205.82,823.28
+Não,Benjamin Sampaio,285.961.347-19,07/02/2023,grande,caminhão,225/65.15,Não,3,234.19,702.57
+Não,Davi Pastor,531.904.768-10,22/02/2024,medio,carro,175/75.16,Não,6,229.94,1379.64
+Não,Sr. Matteo Vargas,240.618.579-67,03/05/2024,grande,caminhão,215/55.15,Não,6,227.31,1363.86
+Sim,Costela,97.430.286/0001-87,02/04/2025,medio,carro,185/65.16,Não,3,201.67,605.01
+Não,Sr. Luiz Felipe Cunha,694.518.037-93,20/11/2024,grande,caminhão,215/65.17,Sim,4,180.58,722.32
+Sim,Nascimento,04.163.295/0001-78,02/08/2022,grande,caminhão,225/60.15,Não,2,214.0,428.0
+Não,Vitor Costela,705.189.423-41,25/01/2025,medio,carro,185/75.16,Não,5,226.09,1130.45
+Sim,Aparecida,73.916.485/0001-31,04/07/2023,grande,caminhão,215/70.15,Sim,4,180.62,722.48
+Não,Kaique Ramos,028.369.415-70,12/07/2022,grande,caminhão,205/65.16,Não,6,211.15,1266.9
+Não,Theodoro Vieira,843.590.217-04,21/09/2023,medio,carro,195/75.15,Sim,5,169.11,845.55
+Sim,Lopes,71.095.846/0001-09,03/01/2024,grande,caminhão,225/55.17,Não,2,211.4,422.8
+Sim,Moreira,98.503.472/0001-61,17/01/2025,medio,carro,195/65.14,Não,4,208.39,833.56
+Sim,Costela,97.430.286/0001-87,01/06/2024,grande,caminhão,215/55.15,Não,4,222.24,888.96
+Não,Raul Sá,291.837.540-32,19/02/2024,medio,carro,175/65.13,Sim,1,167.67,167.67
+Sim,Dias e Filhos,32.097.465/0001-07,25/03/2025,grande,caminhão,215/60.17,Não,5,215.4,1077.0
+Não,Theodoro Ribeiro,940.615.872-85,18/05/2023,grande,caminhão,225/70.16,Não,1,227.44,227.44
+Não,Gabrielly Viana,745.830.612-26,18/02/2024,medio,carro,175/65.14,Sim,6,183.32,1099.92
+Sim,Porto Ltda.,31.502.897/0001-85,28/04/2025,medio,carro,195/65.14,Sim,3,179.26,537.78
+Sim,Lopes,71.095.846/0001-09,13/03/2024,grande,caminhão,205/70.16,Não,4,209.72,838.88
+Sim,Porto Ltda.,31.502.897/0001-85,04/03/2024,grande,caminhão,225/60.15,Não,5,201.99,1009.95
+Não,Srta. Emanuella Alves,407.185.923-79,30/12/2022,medio,carro,165/65.14,Não,2,228.01,456.02
+Sim,Almeida,59.608.342/0001-31,17/07/2023,grande,caminhão,215/60.15,Não,3,246.4,739.2
+Não,Sr. Juan Vieira,347.190.685-10,18/01/2024,grande,caminhão,225/70.17,Não,1,230.83,230.83
+Sim,Porto Ltda.,31.502.897/0001-85,08/12/2022,grande,caminhão,215/70.17,Sim,6,167.61,1005.66
+Sim,Nascimento,04.163.295/0001-78,04/04/2024,medio,carro,185/65.13,Sim,1,175.35,175.35
+Sim,Aparecida,73.916.485/0001-31,22/12/2023,medio,carro,185/65.15,Sim,3,168.97,506.91
+Sim,Aparecida,73.916.485/0001-31,10/06/2023,medio,carro,165/75.13,Não,6,244.12,1464.72
+Não,Dra. Mirella Caldeira,243.967.801-50,14/03/2024,medio,carro,185/75.13,Sim,6,180.46,1082.76
+Não,Dra. Juliana Oliveira,134.576.908-39,14/11/2024,medio,carro,185/65.15,Não,1,207.31,207.31
+Sim,Aparecida,73.916.485/0001-31,27/11/2023,medio,carro,165/75.14,Sim,6,187.38,1124.28
+Sim,Nascimento,04.163.295/0001-78,03/03/2023,medio,carro,175/65.13,Não,6,227.28,1363.68
+Sim,Cavalcante,65.098.174/0001-84,01/06/2024,grande,caminhão,225/60.16,Sim,3,182.17,546.51
+Não,Alexandre Moura,432.068.715-90,29/03/2025,grande,caminhão,225/45.15,Não,2,233.91,467.82
+Não,João Vitor Leão,469.352.017-99,02/09/2022,grande,caminhão,225/65.17,Sim,4,165.45,661.8
+Não,Agatha Gonçalves,702.134.869-03,15/08/2024,grande,caminhão,225/45.15,Sim,5,173.57,867.85
+Sim,Almeida,59.608.342/0001-31,21/08/2023,grande,caminhão,215/55.15,Não,6,241.51,1449.06
+Sim,Nascimento,04.163.295/0001-78,11/05/2023,medio,carro,195/65.13,Sim,5,160.1,800.5
+Sim,Sampaio,85.960.143/0001-06,27/11/2022,medio,carro,195/65.16,Sim,2,165.43,330.86
+Sim,Cavalcante,65.098.174/0001-84,14/06/2022,grande,caminhão,215/65.17,Sim,3,165.55,496.65
+Não,Dr. Ryan Moura,049.653.821-70,16/06/2024,medio,carro,185/65.16,Não,5,238.1,1190.5
